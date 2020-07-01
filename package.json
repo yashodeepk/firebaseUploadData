@@ -1,0 +1,14 @@
+{
+  "name": "firebaseuploaddata",
+  "version": "1.0.0",
+  "description": "to upload jason data to firestore",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^8.12.1"
+  }
+}

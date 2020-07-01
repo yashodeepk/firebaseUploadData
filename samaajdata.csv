@@ -1,0 +1,942 @@
+memcode,familycode,name,mobileno,address,relation,dob,dom,education,bloodgroup,businessjob,email,typeofbusiness,businessbrief,businessaddress,usertype
+B010201,B0102,Baheti Tejas,9422161399,"Row House No. 4, Sara Pride, Ranjeet Nagar, Near Kalda Corner, Aurangabad",Family Head,15/04/1991,6/3/2018,CA,O+,Shriji Enterprises,,DROP DOWN LIST,,,user
+B010202,B0102,Baheti Pooja,8605502193,"Row House No. 4, Sara Pride, Ranjeet Nagar, Near Kalda Corner, Aurangabad",Wife,11/1/1994,6/3/2018,M com,O+,Home Maker,,MANUFACTURING,,,user
+B020401,B0204,Bajaj Ashwin,9823373143,Flat No 7 Achala Apt. Near Guru Tech Bhadur School Osmanpura,Family Head,11/10/1981,1/22/2006,MBA,AB+,"Shree Industries
+Gut No 67, Plot No 15
+Wadgaon Kolhati, Sajapur Road
+Waluj Midc
+Aurangabad
+Gst No - 27Amnpb4156B1Zd
+Email Id- Shreeind18@Gmail.Com
+Mob. 9823373143 / 9370527014",,TRADING,,,user
+B020402,B0204,Bajaj Archana Ashwin,9579114324,Flat No 7 Achala Apt. Near Guru Tech Bhadur School Osmanpura,Spouse,12/25/1982,1/22/2006,BA,O+,House Wife,,PROFESSIONAL,,,user
+B020403,B0204,Bajaj Shruti Ashwin,,Flat No 7 Achala Apt. Near Guru Tech Bhadur School Osmanpura,Daughter,4/23/2007,,Studying,AB+,,,JOB/SERVICE,,,user
+B020404,B0204,Bajaj Shreekant Ashwin,,Flat No 7 Achala Apt. Near Guru Tech Bhadur School Osmanpura,Son,9/28/2011,,Studying,B+,,,OTHER,,,user
+B030901,B0309,Bajaj Pankaj,9850980077,"Plot No 75
+Shreya Nagar",Family Head,4/3/1977,4/18/2002,B.com,A+,Job,,,,,user
+B030902,B0309,Bajaj Parag Dhanraj,9823162486,"Plot No 75
+Shreya Nagar",Brother,12/28/1980,5/29/2010,LLB,A+,"Plot No 75
+Shreya Nagar",,,,,user
+B030903,B0309,Bajaj Meenakshi Pankaj,7588168138,"Plot No 75
+Shreya Nagar",Wife,12/22/1979,4/18/2002,IDD,B+,,,,,,user
+B030904,B0309,Bajaj Shilpa Parag,8605606701,"Plot No 75
+Shreya Nagar",Brother'S Wife,3/18/1987,5/29/2010,Cmlt,A+,,,,,,user
+B030905,B0309,Bajaj Prathamesh,7588168140,"Plot No 75
+Shreya Nagar",Son,9/16/2003,,10th,B+,,,,,,user
+B030906,B0309,Bajaj Bhumi Parag,,"Plot No 75
+Shreya Nagar",Daughter,6/16/2011,,4th,,,,,,,user
+B030907,B0309,Bajaj Prisha Pankaj,,"Plot No 75
+Shreya Nagar",Daughter,8/16/2011,,4th,A+,,,,,,user
+B030908,B0309,Bajaj Ovi Parag,,"Plot No 75
+Shreya Nagar",Daughter,2/9/2014,,,,,,,,,user
+B030909,B0309,Bajaj Rama Dhanraj,,"Plot No 75
+Shreya Nagar",Mother,6/25/1958,,,,,,,,,user
+B040501,B0405,Baldawa Manish,9168827205,Flat No 5 Kirti Appartment New Shrynagar,Family Head,1/26/1973,1/19/1999,Interior designer,O+,Manish Baldawa And Associates,,,,,user
+B040502,B0405,Baldawa Kavita Manish,9823544864,Flat No 5 Kirti Appartment New Shrynagar,Wife,2/1/1977,1/19/1999,Bsc,B-,,,,,,user
+B040503,B0405,Baldawa Nihar Manish,8446844607,Flat No 5 Kirti Appartment New Shrynagar,Son,4/26/2000,,Arch 3 year pune,B-,,,,,,user
+B040504,B0405,Baldawa Nishit Manish,9405444400,Flat No 5 Kirti Appartment New Shrynagar,Son,7/20/2007,,8 th std,O-,,,,,,user
+B040505,B0405,Baldawa Shrikant Ravindra,9028042777,Flat No 5 Kirti Appartment New Shrynagar,Brother,12/7/1988,,Mba,O+,Shri Venkatesh Agencies. Diwan Deodi Aurangabad-431001,,,,,user
+B050401,B0504,Baldi Yogesh,9881807422,"Flat No 7, Kirti Apartment, Near Padmavati Hospital, Shreya Nagar, Kalda Corner, Aurangabad",Family Head,24/06/1986,25/06/2018,"CA, CS, Mcom",Not Checked Yet,"Chajad & Associates, Near Satish Motors Aurangabad",,,,,user
+B050402,B0504,Baldi Komal Yogesh,9420934533,"Flat No 7, Kirti Apartment, Near Padmavati Hospital, Shreya Nagar, Kalda Corner, Aurangabad",Wife,25/03/1989,25/06/2018,CA Final,B+,,,,,,user
+B050403,B0504,Baldi Vimala Baldi,,"Flat No 7, Kirti Apartment, Near Padmavati Hospital, Shreya Nagar, Kalda Corner, Aurangabad",Mother,7/12/1956,,,B+,,,,,,user
+B050404,B0504,Baldi Mishti Yogesh,,"Flat No 7, Kirti Apartment, Near Padmavati Hospital, Shreya Nagar, Kalda Corner, Aurangabad",Daughter,21/03/2020,,,B+,,,,,,user
+B060501,B0605,Bang Rajendra,9325360403,F-2 Kasliwal Heritage Beside Pawan Gas Godown Shrey Nagar,Family Head,4/1/1961,21/12/1987,Graduate,B+,Sanraj Forging & Engineering & Akshaya Gears Owner,,,,,user
+B060502,B0605,Bang Sangita,9326182873,F-2 Kasliwal Heritage Beside Pawan Gas Godown Shrey Nagar,Wife,30/09/1964,21/12/1987,Graduate,B+,Owner Sanraj Foging & Engineering,,,,,user
+B060503,B0605,Bang Raghunandnn Rajendra,9158222220,F-2 Kasliwal Heritage Beside Pawan Gas Godown Shrey Nagar,Son,28/03/1996,,Graduate,B+,Owner - Akshaya Gears,,,,,user
+B060504,B0605,Bang ,,F-2 Kasliwal Heritage Beside Pawan Gas Godown Shrey Nagar,,,,,,,,,,,user
+B060505,B0605,Bang ,,F-2 Kasliwal Heritage Beside Pawan Gas Godown Shrey Nagar,,,,,,,,,,,user
+B070101,B0701,Bang Ramnarayan,9421971522,",Flat No.C/4-4 Sara Pride,Ranjitnagar ,Sriram Choke,Aurangabaf-431005",Family Head,1/4/1955,1/3/1979,B.Com,AB+,"Insurance & Mf Advisor
+Address Same As Above",,,,,user
+B080401,B0804,Bang Sushil,9421685931,"Rh No.12 , Supratham Co-Op Hsg Society , Zambad Estate , Shrey Nagar , Aurangabad",Family Head,9/14/1966,12/10/1993,Engineering Graduate,AB+,"Industrial Suplliers , Midc Area Waluj",,,,,user
+B080402,B0804,Bang Radha Sushil,9421685931,"Rh No.12 , Supratham Co-Op Hsg Society , Zambad Estate , Shrey Nagar , Aurangabad",Wife,1/14/1972,12/10/1993,Engineering Graduate,O+,Not Available,,,,,user
+B080403,B0804,Bang Pooja Sushil,9421685931,"Rh No.12 , Supratham Co-Op Hsg Society , Zambad Estate , Shrey Nagar , Aurangabad",Daughter,12/25/1994,,"Engineering Graduate , Doing MS in Mechatronics",,,,,,,user
+B080404,B0804,Bang Pawan Sushil,9421685931,"Rh No.12 , Supratham Co-Op Hsg Society , Zambad Estate , Shrey Nagar , Aurangabad",Son,6/3/2000,,,,Studying Engineering,,,,,user
+B090201,B0902,Bangad Dr.Ramesh,9422993128,"1.Shubh Kamna,
+Dhanwantari Nagar,Dashmesh Nagar
+Osmanpura,Aurangabad.431001",Family Head,20/03/2020,7/2/2020,"MBBS,BJ,MMCJ.",B+,"Doctor
+Shree Clinic
+Peer Bazar,Osmanpura
+Aurangabad.431001",,,,,user
+B090202,B0902,Bangad Sanjivani Ramesh,7057411286,"1.Shubh Kamna,
+Dhanwantari Nagar,Dashmesh Nagar
+Osmanpura,Aurangabad.431001","Sanjog(?????),Priya(???),Spruha(????)",20/08/2020,7/2/2020,SSC,O-,House Wife,,,,,user
+B100401,B1004,Bangad Laxminarayan,9822079836,Plot No 11 Flat No 3 Suyog Residency,Family Head,12/1/1962,10/2/1993,CA,A-,Behind Om Medical Samarthnagar,,,,,user
+B100402,B1004,Bangad Veena Laxminarayan,9822729794,Plot No 11 Flat No 3 Suyog Residency,Wife,19/01/1972,10/2/1993,Home science bachelors,O+,Housewife,,,,,user
+B100403,B1004,Bangad Lalit Laxminarayan,7776035805,Plot No 11 Flat No 3 Suyog Residency,Son,1/11/1995,,Bachelors of Engg in ENTC,A+,Jai Ganesh Apartment Opposite Shaurya Sports Trimurti Chowk Katraj Pune-411046,,,,,user
+B100404,B1004,Bangad Sanket Laminarayan,8329311826,Plot No 11 Flat No 3 Suyog Residency,Son,23/09/1998,,Ca final (ongoing),O+,,,,,,user
+B110301,B1103,Bhansali Radheshyam,9370743347,70 A Zambad Estate New Shreyanagar,Family Head,9/6/1945,8/5/1970,7 th clasd,Not Checked Yet,Retired,,,,,user
+B110302,B1103,Bhansali Kamala,9370743347,70 A Zambad Estate New Shreyanagar,Wife,30/12/1955,8/5/1970,6 th class,,House Wife,,,,,user
+B110303,B1103,Bhansali Bhansali,7588657916,70 A Zambad Estate New Shreyanagar,Daughter,3/3/1981,,9th class,,Doing Job At Sajan Sarita Cloth Store,,,,,user
+B120201,B1202,Bhutada Gopikishan,9850986080,75 Shreya Nagar Opposite Mseb Power Station Aurangabad,Family Head,1/5/1943,,Production engineer,B+,Retired,,,,,user
+B120202,B1202,Bhutada Padma Gopikishan,,75 Shreya Nagar Opposite Mseb Power Station Aurangabad,Wife,18/03/1953,,Matrix,,,,,,,user
+B130501,B1305,Bhutada Subhash,9422704998,"Flat No. A5 & B3 Sayali Residency Shreya Nagar, Osmanpoora, Aurangabad",Family Head,1/17/1964,11/30/1989,Mcom,O+,Business,,,,,user
+B130502,B1305,Bhutada Meena Subhash,7972817462,"Flat No. A5 & B3 Sayali Residency Shreya Nagar, Osmanpoora, Aurangabad",Wife,1/15/1969,,Bcom,,,,,,,user
+B130503,B1305,Bhutada Shubham Subhash,9403531143,"Flat No. A5 & B3 Sayali Residency Shreya Nagar, Osmanpoora, Aurangabad",Son,2/28/1994,,Ca,O-,Job,,,,,user
+B130504,B1305,Bhutada Bhagyashri Shubham,9422152598,"Flat No. A5 & B3 Sayali Residency Shreya Nagar, Osmanpoora, Aurangabad",Daughter In Law,3/18/1994,,Mcom,,,,,,,user
+B130505,B1305,Bhutada Shivansh Shubham,,"Flat No. A5 & B3 Sayali Residency Shreya Nagar, Osmanpoora, Aurangabad",Grand Son,12/15/2019,,,,,,,,,user
+B140901,B1409,Biyani Jagdish,9766044208,"Plot No 1And 2,Gargee Residency,Behind Kalash Mangal Karyalay, Usmanpura, Aurangabad.",Family Head,16/06/1975,10/7/1995,Diploma automobiles engineer,O+,"Business, New Fancy Saree, Nirala Bazar,Aurangabad,Maharashtra 431001",,,,,user
+B140902,B1409,Biyani Maya Harinaryan,9503025251,"Plot No 1And 2,Gargee Residency,Behind Kalash Mangal Karyalay, Usmanpura, Aurangabad.",Mother,6/8/1958,4/30/1974,,O+,House Maker,,,,,user
+B140903,B1409,Biyani Deepa Jagdish,9503150255,"Plot No 1And 2,Gargee Residency,Behind Kalash Mangal Karyalay, Usmanpura, Aurangabad.",Wife,24/10/1976,10/7/2005,MBA AND MCOM,O+,Home Maker,,,,,user
+B140904,B1409,Biyani Rajveer Jagdish,9766044208,"Plot No 1And 2,Gargee Residency,Behind Kalash Mangal Karyalay, Usmanpura, Aurangabad.",Son,18/11/2006,,8th std,O+,,,,,,user
+B140905,B1409,Biyani Reya Jagdish,9503150255,"Plot No 1And 2,Gargee Residency,Behind Kalash Mangal Karyalay, Usmanpura, Aurangabad.",Daughter,9/10/2010,,4th std,O+,,,,,,user
+B140906,B1409,Biyani Umesh Harinarayan,,"Plot No 1And 2,Gargee Residency,Behind Kalash Mangal Karyalay, Usmanpura, Aurangabad.",Brother,2/2/1977,3/2/2006,BE Cad IIT ROURKEE,O+,"Scanomi Ceo, Singapore",,,,,user
+B140907,B1409,Biyani Neha Umesh,,"Plot No 1And 2,Gargee Residency,Behind Kalash Mangal Karyalay, Usmanpura, Aurangabad.",Bhabhi,3/4/1981,3/2/2006,C.A.,O+,"Scanomi, Ceo, Financial Head",,,,,user
+B140908,B1409,Biyani Tanush Umesh,,"Plot No 1And 2,Gargee Residency,Behind Kalash Mangal Karyalay, Usmanpura, Aurangabad.",Nephew,10/1/2007,,7TH,O+,,,,,,user
+B140909,B1409,Biyani Tanisha Umesh,,"Plot No 1And 2,Gargee Residency,Behind Kalash Mangal Karyalay, Usmanpura, Aurangabad.",Nephew,8/12/2013,,1ST,O+,,,,,,user
+C010501,C0105,Chandak Anuj,9422010877,"Flat No.101, Reva Residency, Behind Space Computers, Osmanpura, Aurangabad-431005",Family Head,25/11/1975,29/11/2003,C.A.,B+,"A.B.Chandak And Associates, Chartered Accountants, Flat No.3, Yogeshwari Silver Wood Apartment
+Beside Utsav Mangal Karyalaya, Osmanpura, Aurangabad-431005",,,,,user
+C010502,C0105,Chandak Archana Anuj,9403149898,"Flat No.101, Reva Residency, Behind Space Computers, Osmanpura, Aurangabad-431005",Wife,12/5/1977,29/11/2003,B.COM,B+,,,,,,user
+C010503,C0105,Chandak Samruddhi Anuj,,"Flat No.101, Reva Residency, Behind Space Computers, Osmanpura, Aurangabad-431005",Daughter,23/09/2004,,10th,B+,,,,,,user
+C010504,C0105,Chandak Srushti Anuj,,"Flat No.101, Reva Residency, Behind Space Computers, Osmanpura, Aurangabad-431005",Daughter,3/9/2008,,6th,B+,,,,,,user
+C010505,C0105,Chandak Swaraj Anuj,,"Flat No.101, Reva Residency, Behind Space Computers, Osmanpura, Aurangabad-431005",Son,30/01/2013,,1st,B+,,,,,,user
+C020601,C0206,Chandak Nilesh,9422016562,"B201, Costa Mapel Apartment, Near Ssc Board, Usmanpura, Aurangabad.",Family Head,26/09/1987,13/07/2016,MBA Marketing,O+,"Marketing, Industrial Suppliers, Waluj Midc, Aurangabad.",,,,,user
+C020602,C0206,Chandak Komal Nilesh,8180817426,"B201, Costa Mapel Apartment, Near Ssc Board, Usmanpura, Aurangabad.",Wife,29/07/1991,13/07/2016,MCom,,,,,,,user
+C020603,C0206,Chandak Brijlal,9423077571,"B201, Costa Mapel Apartment, Near Ssc Board, Usmanpura, Aurangabad.",Father,16/01/1961,18/02/1984,,,Clothes Business,,,,,user
+C020604,C0206,Chandak Vimal Brijlal,9545757165,"B201, Costa Mapel Apartment, Near Ssc Board, Usmanpura, Aurangabad.",Mother,16/03/1966,18/02/1984,,,,,,,,user
+C020605,C0206,Chandak Rupesh Brijlal,9422211819,"B201, Costa Mapel Apartment, Near Ssc Board, Usmanpura, Aurangabad.",Brother,21/04/1986,,,,,,,,,user
+C020606,C0206,Chandak Divyanka Nilesh,,"B201, Costa Mapel Apartment, Near Ssc Board, Usmanpura, Aurangabad.",Daughter,27/02/2020,,,,,,,,,user
+C030301,C0303,Chandak Rajendra,9423444777,C4/1 Sara Pride,Family Head,23/06/1965,6/12/1987,B com,B+,Sadguru Enterprises Ioc Kerosene Dealer Soyegaon,,,,,user
+C030302,C0303,Chandak Sangita,8999941359,C4/1 Sara Pride,Wife,5/6/1967,6/12/1987,Bsc,O+,,,,,,user
+C030303,C0303,Chandak Abhilash,9960333777,C4/1 Sara Pride,Son,21/02/1993,,BE automobile,O+,Job At Hdfc Ergo Genral Insurance As Assist Manager Claims,,,,,user
+C040501,C0405,Chandak Sunil,9822899660,"Plot 9, Flat 1, Shreyas Appt, Shreya Nagar, Kalda Corner Aurangabad 431005",Family Head,10/11/1966,,,O+,Business,,,,,user
+C040502,C0405,Chandak Radhabai Harikisan,,"Plot 9, Flat 1, Shreyas Appt, Shreya Nagar, Kalda Corner Aurangabad 431005",Mom,29/04/1942,,,O+,,,,,,user
+C040503,C0405,Chandak Chhaya Sunil,,"Plot 9, Flat 1, Shreyas Appt, Shreya Nagar, Kalda Corner Aurangabad 431005",Wife,9/9/1971,,,O+,,,,,,user
+C040504,C0405,Chandak Aditya Sunil,,"Plot 9, Flat 1, Shreyas Appt, Shreya Nagar, Kalda Corner Aurangabad 431005",Son,18/05/1996,,,O+,,,,,,user
+C040505,C0405,Chandak Kumarmangalam Sunil,,"Plot 9, Flat 1, Shreyas Appt, Shreya Nagar, Kalda Corner Aurangabad 431005",Son,29/05/1999,,,O+,,,,,,user
+C050901,C0509,Chitlangi Laxminarayan,9403923886,"Plot.No.1, Anupam Colony, Shreynagar, Osmnpura, Aurangabad,431005",Family Head,1/11/1942,5/19/1967,"Bsc,LLM",B+,"Chitlangis Shivam Gifts And Toys
+Gulmandi Corner
+Aurangpura Road, Aurangabad.431001",,,,,user
+C050902,C0509,Chitlangi Nilesh Laxminarayan,9420240407,"Plot.No.1, Anupam Colony, Shreynagar, Osmnpura, Aurangabad,431005",Son,9/21/1977,6/17/2003,Bcom,B+,"Chitlangis Shivam Gifts And Toys
+Gulmandi Corner
+Aurangpura Road, Aurangabad,431001",,,,,user
+C050903,C0509,Chitlangi Mrs.Pushpa Laxminarayan,9404250100,"Plot.No.1, Anupam Colony, Shreynagar, Osmnpura, Aurangabad,431005",Wife,2/10/1947,5/19/1967,HSC,B+,Na,,,,,user
+C050904,C0509,Chitlangi Shailesh Laxminarayan,9822021930,"Plot.No.1, Anupam Colony, Shreynagar, Osmnpura, Aurangabad,431005",Son,4/27/1980,2/2/2006,B.ARCH,B+,"Astitva Architects,
+1, Anupam Colony,
+Shreynagar, Aurangabad,431005",,,,,user
+C050905,C0509,Chitlangi Mrs.Pooja Nilesh,7588818226,"Plot.No.1, Anupam Colony, Shreynagar, Osmnpura, Aurangabad,431005",Daughter In Law,5/25/1980,6/17/2003,B.COM,B+,Na,,,,,user
+C050906,C0509,Chitlangi Mrs.Vaishali Shailesh,9822336914,"Plot.No.1, Anupam Colony, Shreynagar, Osmnpura, Aurangabad,431005",Daughter In Law,6/29/1980,2/2/2006,B.ARCH,B+,"Astitva Architects,
+Anupam Colony, Shreynagar, Aurangabad,431005",,,,,user
+C050907,C0509,Chitlangi Nipun Nilesh,,"Plot.No.1, Anupam Colony, Shreynagar, Osmnpura, Aurangabad,431005",Grandson,5/28/2005,,10 TH STD,B+,Na,,,,,user
+C050908,C0509,Chitlangi Naman Nilesh,,"Plot.No.1, Anupam Colony, Shreynagar, Osmnpura, Aurangabad,431005",Grandson,3/7/2008,,6 STD,B+,Na,,,,,user
+C050909,C0509,Chitlangi Swadhinta Shailesh,9822021930,"Plot.No.1, Anupam Colony, Shreynagar, Osmnpura, Aurangabad,431005",Granddaughter,9/26/2014,,1 STD,B+,Na,,,,,user
+D010601,D0106,Daga Satyanarayan,9834865492,"A/5 Renuka Enclave,
+Chetna Nagar,
+Aurangabad",Family Head,8/8/1968,16/04/1995,,Not Checked Yet,Job,,,,,user
+D010602,D0106,Daga Gajanan Daga,9834865492,"A/5 Renuka Enclave,
+Chetna Nagar,
+Aurangabad",Son,8/3/1995,11/12/2017,,B+,"A/5 Renuka Enclave,
+Chetna Nagar,
+Aurangabad",,,,,user
+D010603,D0106,Daga Harsha Gajanan Daga,9604623456,"A/5 Renuka Enclave,
+Chetna Nagar,
+Aurangabad",Daughter In Law,9/9/1996,11/12/2017,,O+,,,,,,user
+D010604,D0106,Daga Rekha Satyanarayan Daga,9834865492,"A/5 Renuka Enclave,
+Chetna Nagar,
+Aurangabad",Wife,12/1/1973,16/04/1994,,,"A/5 Renuka Enclave,
+Chetna Nagar,
+Aurangabad",,,,,user
+D010605,D0106,Daga Aniket Daga,9834865492,"A/5 Renuka Enclave,
+Chetna Nagar,
+Aurangabad",Son,24/03/1999,,,,"A/5 Renuka Enclave,
+Chetna Nagar,
+Aurangabad",,,,,user
+D010606,D0106,Daga Gauri Daga,9834865492,"A/5 Renuka Enclave,
+Chetna Nagar,
+Aurangabad",Grand Daughter,16/11/2018,,,,"A/5 Renuka Enclave,
+Chetna Nagar,
+Aurangabad",,,,,user
+D020201,D0202,Darak Balaji,9422256714,70 A Zambad Estate New Shreyanagar,Family Head,6/2/1957,20/04/1984,BVSc&AH,Not Checked Yet,Vet Pharma Company And Vet Disease Diagnostic Lab,,,,,user
+D020202,D0202,Darak Sunayana Balaji,7588582927,70 A Zambad Estate New Shreyanagar,Wife,2/3/1966,20/04/1984,,,,,,,,user
+D030501,D0305,Dargad Satish,9422212127,"House No:19, Shiv-Nika, Vikasnagar, Shreyanagar,431001",Family Head,4/5/1973,13/12/1998,,Not Checked Yet,"Sai Gas Services, Shop No.14, Zambad Heights, Jadhav Mandi, Aurangabad. Phone No: 0240-2350589",,,,,user
+D030502,D0305,Dargad Rekha Satish,9423782530,"House No:19, Shiv-Nika, Vikasnagar, Shreyanagar,431001",Wife,11/7/1977,13/12/1998,,B+,"Radhika Boutique, House No:19, Shiv-Nika, Vikasnagar, Usmanpura, 431001 . Mobile No:9423782530",,,,,user
+D030503,D0305,Dargad Swapnil Satish,8275861924,"House No:19, Shiv-Nika, Vikasnagar, Shreyanagar,431001",Son,26/01/1999,,Engineering,O-,,,,,,user
+D030504,D0305,Dargad Simran Satish,8999242429,"House No:19, Shiv-Nika, Vikasnagar, Shreyanagar,431001",Daughter,12/12/2000,,12th Twelfth,B+,,,,,,user
+D030505,D0305,Dargad Sahil Satish,8275861924,"House No:19, Shiv-Nika, Vikasnagar, Shreyanagar,431001",Son,10/6/2003,,11th,B+,,,,,,user
+D040401,D0404,Dhoot Deepak,9823014650,"51, Salasarji Kunj, Krushinagar Housing 
+Society, Deshpande Puram, Shahnoorwadi,
+Aurangabad 
+",Family Head,4/8/1978,2/22/2002,Chartered Accountant,B+,"Ca....Flat 2, Plot 20, Navkar Residency, New Shreynagar, Aurangabad",,,,,user
+D040402,D0404,Dhoot Deepak Seetaramji,9823014650,"51, Salasarji Kunj, Krushinagar Housing 
+Society, Deshpande Puram, Shahnoorwadi,
+Aurangabad 
+",Self,4/8/1978,2/22/2002,Ca,B+,Given,,,,,user
+D040403,D0404,Dhoot Sarika Deepak,8275819770,"51, Salasarji Kunj, Krushinagar Housing 
+Society, Deshpande Puram, Shahnoorwadi,
+Aurangabad 
+",Wife,11/17/1980,2/22/2002,B.S.L.,A+,Same,,,,,user
+D040404,D0404,Dhoot Vaibhavi Deepak,,"51, Salasarji Kunj, Krushinagar Housing 
+Society, Deshpande Puram, Shahnoorwadi,
+Aurangabad 
+",Daughter,6/22/2003,,12th Study,B+,,,,,,user
+D050901,D0509,Dhoot Ramnath,7558267779,"""Shreenidhi"", Plot No.23 , Sahkarnagar, Aurangabad.",Family Head,9/9/1956,7/1/1983,S.S.C,B+,Retired,,,,,user
+D050902,D0509,Dhoot Sachin Ramnath,9422204894,"""Shreenidhi"", Plot No.23 , Sahkarnagar, Aurangabad.",Son,17/11/1983,15/04/2009,Graduate in Commerce,B+,"Grace Paper Plate And Products . (Manufacturing All Types Of Disposable Items)Gut No.67 ,Plot No. 11/12, Wadgaon (Kolhati),Sajapur Road , Auragabad.",,,,,user
+D050903,D0509,Dhoot Sonali Sachin,8600994894,"""Shreenidhi"", Plot No.23 , Sahkarnagar, Aurangabad.",Daughter In Law,30/01/1985,15/04/2009,Graduate,O+,Shreenidhi Trading (Import And Export),,,,,user
+D050904,D0509,Dhoot Ganesh Ramnath,9422206894,"""Shreenidhi"", Plot No.23 , Sahkarnagar, Aurangabad.",Son,23/07/1988,23/02/2011,Intermediate,B+,Grace Paper Plates And Products.,,,,,user
+D050905,D0509,Dhoot Swati Ganesh,9860716894,"""Shreenidhi"", Plot No.23 , Sahkarnagar, Aurangabad.",Daughter In Law,11/7/1988,23/02/2011,Intermediate,A-,Housewife,,,,,user
+D050906,D0509,Dhoot Jamuna Ramnath,9373535724,"""Shreenidhi"", Plot No.23 , Sahkarnagar, Aurangabad.",Wife,1/1/1962,7/1/1983,B.ED (First Year),B+,House Wife,,,,,user
+D050907,D0509,Dhoot Shubham Jagannath,8805787110,"""Shreenidhi"", Plot No.23 , Sahkarnagar, Aurangabad.",Nephew,23/12/1996,,Graduate in Commerce (Pursueing CA),B+,Article Assistant In Indapurkar And Mundada Firm .,,,,,user
+D050908,D0509,Dhoot Sachi Sachin,,"""Shreenidhi"", Plot No.23 , Sahkarnagar, Aurangabad.",Granddaughter,15/12/2009,,5 Std,O+,,,,,,user
+D050909,D0509,Dhoot Shreenidhi Sachin,,"""Shreenidhi"", Plot No.23 , Sahkarnagar, Aurangabad.",Granddaughter,9/12/2011,,3 Std,O+,,,,,,user
+D060401,D0604,Dodya Gaurav,9619938811,"Flat No.6, Ramprabha Aditya Plaza, Shastri Nagar, Aurangabad",Family Head,6/11/1985,7/6/2011,MBA,B+,Property Valuer For Banks,,,,,user
+D060402,D0604,Dodya Manisha Gaurav,9403811912,"Flat No.6, Ramprabha Aditya Plaza, Shastri Nagar, Aurangabad",Wife,2/15/1985,7/6/2011,M Com,AB+,Home Maker,,,,,user
+D060403,D0604,Dodya Anvi Gaurav,,"Flat No.6, Ramprabha Aditya Plaza, Shastri Nagar, Aurangabad",Daughter,3/7/2015,,,,,,,,,user
+D060404,D0604,Dodya Aarvi Gaurav,,"Flat No.6, Ramprabha Aditya Plaza, Shastri Nagar, Aurangabad",Daughter,11/21/2019,,,,,,,,,user
+G010601,G0106,Gandhi Dilip,7447757036,"Flat No.9, Shri Sai Residency, Near Space Computers, Osmanpura 431005",Family Head,5/28/1967,11/20/1992,Graduate,B+,"Propritor/Trading. Second Floor, Decent Enclave, Darga Road 431001",,,,,user
+G010602,G0106,Gandhi Ratna Dipchand,7447757036,"Flat No.9, Shri Sai Residency, Near Space Computers, Osmanpura 431005",Mother,2/13/1942,,,B+,,,,,,user
+G010603,G0106,Gandhi Swati Dilip,9335518003,"Flat No.9, Shri Sai Residency, Near Space Computers, Osmanpura 431005",Wife,4/10/1974,4/10/1992,Graduate,B+,"Oriflame. Flat No.9 Shri Sai Residency, Near Space Computers, Osmanpura 431001",,,,,user
+G010604,G0106,Gandhi Tejal Dilip,7447757036,"Flat No.9, Shri Sai Residency, Near Space Computers, Osmanpura 431005",Daughter,10/17/1993,,Master in Urban Designing,B+,Working Abroad,,,,,user
+G010605,G0106,Gandhi Vaishnavi Dilip,8600044104,"Flat No.9, Shri Sai Residency, Near Space Computers, Osmanpura 431005",Daughter,7/27/1998,,B.Com (Appearing for CA Finals),B+,"Article Assistant At V.P. Shinde & Company, Nutan Colony, Kranti Chowk 431005",,,,,user
+G010606,G0106,Gandhi Saani Dilip,9325518003,"Flat No.9, Shri Sai Residency, Near Space Computers, Osmanpura 431005",Daughter,1/1/2010,,Student,B+,,,,,,user
+G020401,G0204,Gattani Rameshwar,9545917666,"Flat No.3, Shalaka Appartment, Plot No.13, New Shreyanagar,",Family Head,1/9/1983,7/6/2008,B.com,O+,Adhishree Industries,,,,,user
+G020402,G0204,Gattani Geeta Rameshwar,9404004830,"Flat No.3, Shalaka Appartment, Plot No.13, New Shreyanagar,",Spouse,8/8/1985,7/6/2008,M.com.,B-,Housewife,,,,,user
+G020403,G0204,Gattani Adhishree,,"Flat No.3, Shalaka Appartment, Plot No.13, New Shreyanagar,",Daughter,10/20/2011,,3rd,O+,,,,,,user
+G020404,G0204,Gattani Shubhashree,,"Flat No.3, Shalaka Appartment, Plot No.13, New Shreyanagar,",Daughter,12/8/2016,,,,,,,,,user
+G030501,G0305,Govindprasad Shyamlal Rathi Govindprasad,9823010584,"F-1,29,Siddhesh Nagar,
+Shreynagar,Aurangabad",Family Head,23/07/1970,9/5/1996,B.E.(Chemical),B+,Service,,,,,user
+G030502,G0305,Govindprasad Shyamlal Rathi Sangeeta Govindprasad,9423742380,"F-1,29,Siddhesh Nagar,
+Shreynagar,Aurangabad",Wife,16/12/1978,9/5/1996,12th,O+,Housewife,,,,,user
+G030503,G0305,Govindprasad Shyamlal Rathi Tulsabai Shyamlal,,"F-1,29,Siddhesh Nagar,
+Shreynagar,Aurangabad",Mother,18/04/1938,,,A+,,,,,,user
+G030504,G0305,Govindprasad Shyamlal Rathi Yash Govindprasad,9823010584,"F-1,29,Siddhesh Nagar,
+Shreynagar,Aurangabad",Son,1/3/1997,,B.E.(Computer Science),O+,Swrvice,,,,,user
+G030505,G0305,Govindprasad Shyamlal Rathi Sanjana Govindprasad,9823010584,"F-1,29,Siddhesh Nagar,
+Shreynagar,Aurangabad",Daughter,29/08/2001,,B.A. I year,O+,Student,,,,,user
+H010501,H0105,Heda Omprakash,9422211696,"Plot No.14, 'Tirumala', Near Kalda Corner, New Shreya Nagar, Aurangabad-431005",Family Head,1/16/1966,5/26/1989,ITI,O+,"Shree Sarathi Electricals, Shop No. (3,4,5,6), Suyash Complex, Near Kalda Corner, Aurangabad-431005. 2340070",,,,,user
+H010502,H0105,Heda Sunetra Omprakash,9404002303,"Plot No.14, 'Tirumala', Near Kalda Corner, New Shreya Nagar, Aurangabad-431005",Wife,1/21/1970,5/26/1989,SSC,,"Shree Sarathi Electricals, Shop No. (3,4,5,6), Suyash Complex, Near Kalda Corner, Aurangabad-431005. 2340070",,,,,user
+H010503,H0105,Heda Shubham Omprakash,8087779333,"Plot No.14, 'Tirumala', Near Kalda Corner, New Shreya Nagar, Aurangabad-431005",Son,12/18/1994,,MS in Information Systems,O+,,,,,,user
+H010504,H0105,Heda Kantabai Dwarkadas Miniyar,9423780221,"Plot No.14, 'Tirumala', Near Kalda Corner, New Shreya Nagar, Aurangabad-431005",Mother In Law,3/28/1945,,,,,,,,,user
+H010505,H0105,Heda Gaurav Omprakash Miniyar,7875353444,"Plot No.14, 'Tirumala', Near Kalda Corner, New Shreya Nagar, Aurangabad-431005",Nephew,11/16/1994,,Company Secretary,O+,,,,,,user
+H020401,H0204,Holani Pravinkumar,9823470371,4 Achala Apartment Behind Gurudwara New Osmanapura Aurangabad,Family Head,6/11/1965,27/01/1993,M.Com,O+,Business,,,,,user
+H020402,H0204,Holani Kalpana Pravinkumar,9420401811,4 Achala Apartment Behind Gurudwara New Osmanapura Aurangabad,Wife,6/2/1970,,,O+,,,,,,user
+H020403,H0204,Holani ,,4 Achala Apartment Behind Gurudwara New Osmanapura Aurangabad,,,,,,,,,,,user
+H020404,H0204,Holani ,,4 Achala Apartment Behind Gurudwara New Osmanapura Aurangabad,,,,,,,,,,,user
+H030501,H0305,Hurgat Vijay,9766869734,"Parag House, 2, New Shreyanagar, Near Zambad Estate, Aurangabad, 431005.",Family Head,3/19/1956,7/9/1981,"B.Sc., M.B.A.",AB-,"Professional, Vice President, Commercial, Nath Industries Ltd., Nath House, Nath Road, Aurangabad, 431005",,,,,user
+H030502,H0305,Hurgat Sheela Vijay,9766869734,"Parag House, 2, New Shreyanagar, Near Zambad Estate, Aurangabad, 431005.",Wife,7/27/1961,7/9/1981,B.A.,O+,No,,,,,user
+H030503,H0305,Hurgat Parag Vijay,9763709503,"Parag House, 2, New Shreyanagar, Near Zambad Estate, Aurangabad, 431005.",Son,2/23/1984,11/18/2011,B.E. E & C.,A+,"Director, Loginext, Mumbai",,,,,user
+H030504,H0305,Hurgat Aarathi Parag,9763709506,"Parag House, 2, New Shreyanagar, Near Zambad Estate, Aurangabad, 431005.",Daughter In Law,10/24/1987,10/18/2011,M.B.A.,O+,,,,,,user
+H030505,H0305,Hurgat Reyaansh Parag,,"Parag House, 2, New Shreyanagar, Near Zambad Estate, Aurangabad, 431005.",Grand Son,11/11/2013,,2nd studying,O+,,,,,,user
+J010401,J0104,Jajoo Gopal,9823040955,"Flat No 3, Anand Nilayam, Opp Orion City Care Hospital, New Osmanpura",Family Head,2/7/1966,26/11/1992,CA,O+,"Gopal Jajoo & Associates, Shanta Complex, Nutan Colony Signal",,,,,user
+J010402,J0104,Jajoo Bharati,9372353620,"Flat No 3, Anand Nilayam, Opp Orion City Care Hospital, New Osmanpura",Wife,21/07/1967,26/11/1992,"M.Com, DTL",O+,"Bharati Gopal Jajoo, Dsa Hdfc Bank, Shanta Complex, Nutan Colony Signal",,,,,user
+J010403,J0104,Jajoo Saloni,9850054300,"Flat No 3, Anand Nilayam, Opp Orion City Care Hospital, New Osmanpura",Daughter,6/1/2000,,"Studying in ILS, Pune 3rd year LAW",O+,,,,,,user
+J010404,J0104,Jajoo Succhit,,"Flat No 3, Anand Nilayam, Opp Orion City Care Hospital, New Osmanpura",Son,24/03/2005,,Studying in 10th Class,O+,,,,,,user
+J020601,J0206,Jaju Satyanarayan,9823046237,"Plot No. 6, Basant, New Shreyanagar, Behind Chobe Hospital, Aurangabad-431005",Family Head,9/3/1959,11/5/1986,CA,O+,"1St Floor, Satyaraj Tower, Opp Doodh Dairy, Jalna Road, Aurangabad- 431005",,,,,user
+J020602,J0206,Jaju Sadhana Satyanarayan,9422205087,"Plot No. 6, Basant, New Shreyanagar, Behind Chobe Hospital, Aurangabad-431005",Wife,27/09/1966,11/5/1986,B.Com,AB+,Na,,,,,user
+J020603,J0206,Jaju Nikhil Satyanarayan,9422701187,"Plot No. 6, Basant, New Shreyanagar, Behind Chobe Hospital, Aurangabad-431005",Son,11/3/1987,28/01/2011,CA,B+,,,,,,user
+J020604,J0206,Jaju Pooja Nikhil,9423157274,"Plot No. 6, Basant, New Shreyanagar, Behind Chobe Hospital, Aurangabad-431005",Daughter In Law,21/05/1987,28/01/2011,CA,B+,,,,,,user
+J020605,J0206,Jaju Rammya Nikhil,,"Plot No. 6, Basant, New Shreyanagar, Behind Chobe Hospital, Aurangabad-431005",Grand Daughter,26/07/2012,,,B+,,,,,,user
+J020606,J0206,Jaju Nitya Nikhil,,"Plot No. 6, Basant, New Shreyanagar, Behind Chobe Hospital, Aurangabad-431005",Grand Daughter,15/04/2017,,,,,,,,,user
+J030401,J0304,Jaju Jugalkishor,8806048822,"Flat No.301,Rathi Maxima Apartment,Kalda Corner,Behind Sarthi Electricals,New Shreyanagar,Aurangabad
+Aurangabad",Family Head,5/16/1967,11/20/1989,12th,B+,"Flat No.301,Rathi Maxima Apartment,Kalda Corner,Behind Sarthi Electricals,New Shreyanagar,Aurangabad
+Aurangabad",,,,,user
+J030402,J0304,Jaju Shobha Jugalkishor,9284860340,"Flat No.301,Rathi Maxima Apartment,Kalda Corner,Behind Sarthi Electricals,New Shreyanagar,Aurangabad
+Aurangabad",Wife,11/10/1968,11/20/1989,12th,AB+,Housewife,,,,,user
+J030403,J0304,Jaju Sudarshan Jugalkishor,8788455074,"Flat No.301,Rathi Maxima Apartment,Kalda Corner,Behind Sarthi Electricals,New Shreyanagar,Aurangabad
+Aurangabad",Son,11/22/1990,,Bcom,AB+,"Flat No.301,Rathi Maxima Apartment,Kalda Corner,Behind Sarthi Electricals,New Shreyanagar,Aurangabad
+Aurangabad",,,,,user
+J030404,J0304,Jaju Divya Jugalkishor,8788455074,"Flat No.301,Rathi Maxima Apartment,Kalda Corner,Behind Sarthi Electricals,New Shreyanagar,Aurangabad
+Aurangabad",Daughter,4/9/1994,,BBA,B+,,,,,,user
+J040501,J0405,Jethlia Prakash,9822034995,"Cts No. 17287, Flat No. 401, 4Th Floor, Rewa Residency, Osmanpura, Aurangabad",Family Head,9/10/1962,11/22/1983,,A+,Prakash Jethlia - Property Consultant,,,,,user
+J040502,J0405,Jethlia Usha Prakash,9850018020,"Cts No. 17287, Flat No. 401, 4Th Floor, Rewa Residency, Osmanpura, Aurangabad",Wife,5/15/1964,11/22/1983,,AB+,,,,,,user
+J040503,J0405,Jethlia Chetan Prakash,9922012211,"Cts No. 17287, Flat No. 401, 4Th Floor, Rewa Residency, Osmanpura, Aurangabad",Son,10/11/1986,12/1/2014,,AB+,"Ignite Training Solutions, Osmanpura, Aurangabad 
+Ascend Career Academy, Osmanpura, Aurangabad",,,,,user
+J040504,J0405,Jethlia Srishti Chetan,8007332211,"Cts No. 17287, Flat No. 401, 4Th Floor, Rewa Residency, Osmanpura, Aurangabad",Daughter In Law,10/21/1990,12/1/2014,,A+,"Balak Palak - Empowered Parenting
+Osmanpura, Aurangabad",,,,,user
+J040505,J0405,Jethlia Shubham Prakash,9850537537,"Cts No. 17287, Flat No. 401, 4Th Floor, Rewa Residency, Osmanpura, Aurangabad",Son,6/26/1994,,,A+,"Sj Digital - Digital Marketing Company, Pune / Aurangabad",,,,,user
+J050301,J0503,Jethlia Santosh,9422070133,"B3, ""Aditya"", Swarsangam Housing Society, New Shreya Nagar, 431005",Family Head,3/4/1965,7/12/1989,B. E (Electrical),B+,"Venkatesh Electricals, 3, Indraprasth, Aurangpura, 431001",,,,,user
+J050302,J0503,Jethlia Chhaya Jethlia,9423148844,"B3, ""Aditya"", Swarsangam Housing Society, New Shreya Nagar, 431005",Wife,25/10/1969,7/12/1989,B.Com,B+,-,,,,,user
+J050303,J0503,Jethlia Aditya Santosh,8446233777,"B3, ""Aditya"", Swarsangam Housing Society, New Shreya Nagar, 431005",Son,16/06/1997,,Persuing Chartered Accountancy,B+,-,,,,,user
+K010401,K0104,Kabra Bhushan,9405911183,"9/1 Sujan, New Shreya Nagar, Aurangabad",Family Head,2/7/1961,13/12/1989,"Commercial artist, bfa",B+,"Intel Graphics, Designing And Printing",,,,,user
+K010402,K0104,Kabra Ujjwala,,"9/1 Sujan, New Shreya Nagar, Aurangabad",Wife',7/5/1966,13/12/1989,B.Com.,O-,Artist,,,,,user
+K010403,K0104,Kabra Mohit,,"9/1 Sujan, New Shreya Nagar, Aurangabad",Son,27/06/1996,,Engineering btech mechanical,,,,,,,user
+K010404,K0104,Kabra Khushboo,,"9/1 Sujan, New Shreya Nagar, Aurangabad",Daughter,22/01/1993,28/06/2018,Chartered accountant,,,,,,,user
+K020501,K0205,Kabra Narendra,9404614981,"House No 4 , Supratham Co-Op Hos. Soc.
+Zambad Estate, Shreyanager, Aurangabad",Family Head,25/12/1973,28/06/1998,B com,A+,"Dwarkadas Shamkumar
+Cloth Merchent
+Aurangpura
+Aurangabad",,,,,user
+K020502,K0205,Kabra Varsha Narendra,9579747418,"House No 4 , Supratham Co-Op Hos. Soc.
+Zambad Estate, Shreyanager, Aurangabad",Wife,19/03/1976,28/06/1998,B sc,AB+,House Wife,,,,,user
+K020503,K0205,Kabra Kaushik Narendra,9175504503,"House No 4 , Supratham Co-Op Hos. Soc.
+Zambad Estate, Shreyanager, Aurangabad",Son,3/6/2003,,,AB+,,,,,,user
+K020504,K0205,Kabra Grishma Narendra,,"House No 4 , Supratham Co-Op Hos. Soc.
+Zambad Estate, Shreyanager, Aurangabad",Daughter,6/9/2006,,,B+,,,,,,user
+K020505,K0205,Kabra Gopikisan Gulabchand,,"House No 4 , Supratham Co-Op Hos. Soc.
+Zambad Estate, Shreyanager, Aurangabad",Fathet,20/02/1939,,,,,,,,,user
+K030601,K0306,Kabra Paresh,9823071971,Flat No 6 A Wing Aishwarya Apartment Opp Orion Citicare Hospital Ossmanpura Aurangabad,Family Head,3/4/1988,12/7/2014,MBA,A+,Assistant Vice President At Andromeda Sales And Distribution Pvt Ltd. Flat No 6 C Wing Balaji Apartment Behind Kohinoor Plaza Nirala Bazar Aurangabad,,,,,user
+K030602,K0306,Kabra Kavita Paresh,8830892023,Flat No 6 A Wing Aishwarya Apartment Opp Orion Citicare Hospital Ossmanpura Aurangabad,Wife,5/16/1988,12/7/2014,MCom,B+,,,,,,user
+K030603,K0306,Kabra Parth Paresh,,Flat No 6 A Wing Aishwarya Apartment Opp Orion Citicare Hospital Ossmanpura Aurangabad,Son,1/3/2016,,,,,,,,,user
+K030604,K0306,Kabra Prem Paresh,,Flat No 6 A Wing Aishwarya Apartment Opp Orion Citicare Hospital Ossmanpura Aurangabad,Son,9/11/2018,,,,,,,,,user
+K030605,K0306,Kabra Ramesh Raghunath,9403020233,Flat No 6 A Wing Aishwarya Apartment Opp Orion Citicare Hospital Ossmanpura Aurangabad,Father,3/28/1961,12/9/1986,10,,Farmer,,,,,user
+K030606,K0306,Kabra Geeta Ramesh,9423588248,Flat No 6 A Wing Aishwarya Apartment Opp Orion Citicare Hospital Ossmanpura Aurangabad,Mother,8/28/1968,12/9/1986,10,,,,,,,user
+K040301,K0403,Kabra Ramnivas,9146589242,"65, Shreya Nager",Family Head,29/09/1961,9/5/1988,,A-,"65, Shreya Nager",,,,,user
+K040302,K0403,Kabra Premlata R,9595882796,"65, Shreya Nager",Wife,25/12/1967,,,A-,,,,,,user
+K040303,K0403,Kabra Kshiteej R,,"65, Shreya Nager",Son,21/03/2004,,Students,A-,,,,,,user
+K050401,K0504,Kacholia Ramesh,9423780305,"A-1,Chetana Tower New Shreyanagar Near Deogiri Bank Aurangabad 431005",Family Head,21/10/1964,4/12/1992,B.Com,B+,Job,,,,,user
+K050402,K0504,Kacholia Aruna Ramesh,9421957588,"A-1,Chetana Tower New Shreyanagar Near Deogiri Bank Aurangabad 431005",Wife,24/08/1968,4/12/1994,HSC,B+,"Kacholia Collection A-1,Chetana Tower New Shreyanagar Near Deogiri Bank Aurangabad",,,,,user
+K050403,K0504,Kacholia Saurabh Ramesh,9764376462,"A-1,Chetana Tower New Shreyanagar Near Deogiri Bank Aurangabad 431005",Son,10/12/1994,,PG DIPLOMA IN DAC,B+,Job Bharatpay New Dehli,,,,,admin
+K050404,K0504,Kacholia Yashodeep Ramesh,8275861835,"A-1,Chetana Tower New Shreyanagar Near Deogiri Bank Aurangabad 431005",Son,21/05/1997,,B.E. Entc,B+,Job Tcs Hinjewadi Pune,,,,,admin
+K060601,K0606,Kalani Amol,9860156111,"Flat No 02, Harmony, 61, Pannalal Nagar, Aurangabad",Family Head,28/04/2020,14/07/2010,BE Civil,B+,Developer,,,,,user
+K060602,K0606,Kalani Pushpalata,9420035555,"Flat No 02, Harmony, 61, Pannalal Nagar, Aurangabad",Mother,25/04/1960,29/04/1978,SSC,B+,Developer,,,,,user
+K060603,K0606,Kalani Shantabai,,"Flat No 02, Harmony, 61, Pannalal Nagar, Aurangabad",Grandmother,1/1/1930,,,,,,,,,user
+K060604,K0606,Kalani Sheetal,7507777111,"Flat No 02, Harmony, 61, Pannalal Nagar, Aurangabad",Wife,29/06/1984,14/07/2010,B Com,B+,Choreographer,,,,,user
+K060605,K0606,Kalani Gunjan,,"Flat No 02, Harmony, 61, Pannalal Nagar, Aurangabad",Daughter,28/06/2011,,4th,B+,,,,,,user
+K060606,K0606,Kalani Kavya,,"Flat No 02, Harmony, 61, Pannalal Nagar, Aurangabad",Daughter,2/11/2016,,,,,,,,,user
+K070401,K0704,Kalantri Niraj,9823808883,Second Floor Plot No 10-B Mitramandal Co-Op Housing Society New Osmanpura Aurangabad 431005,Family Head,10/8/1980,27/01/2008,B. COM FCA,A-,"N. S. Kalantri & Associates
+Chartered Accountants
+First Floor Lahoti Complex Opp S B Boys Hostel Aurangpura Aurangabad 431001",,,,,user
+K070402,K0704,Kalantri Sugandha Niraj,9823113231,Second Floor Plot No 10-B Mitramandal Co-Op Housing Society New Osmanpura Aurangabad 431005,Wife,30/05/1983,27/01/2008,BACHELOR OF PHYSIOTHERAPIST,O+,"Own Clinic At Residence
+Also Visiting Faculty For Gi One Hospital And Orion Hospital",,,,,user
+K070403,K0704,Kalantri Ananya Niraj,,Second Floor Plot No 10-B Mitramandal Co-Op Housing Society New Osmanpura Aurangabad 431005,Daughter,12/9/2009,,PERSUING IN STANDARD 6,A-,,,,,,user
+K070404,K0704,Kalantri Akshaya Niraj,,Second Floor Plot No 10-B Mitramandal Co-Op Housing Society New Osmanpura Aurangabad 431005,Daughter,24/04/2012,,PERSUING IN STANDARD 3,O+,,,,,,user
+K080501,K0805,Kalantri Pankaj,9890987017,"Plot No 10-B, Mitramandal Co Op Housing Society, New Osmanpura , Aurangabad - 431 005",Family Head,20/07/1979,28/11/2005,"BE(Electrical Electronics and Power), FCA",A-,"S E Kalantri And Co
+Space Olympia, Garkheda Parisar
+Aurangabad",,,,,user
+K080502,K0805,Kalantri Somnath Eknath,9422203795,"Plot No 10-B, Mitramandal Co Op Housing Society, New Osmanpura , Aurangabad - 431 005",Father,1/4/1950,19/05/1977,FCA,A-,S E Kalantri And Co,,,,,user
+K080503,K0805,Kalantri Archana Pankaj,9404111893,"Plot No 10-B, Mitramandal Co Op Housing Society, New Osmanpura , Aurangabad - 431 005",Wife,17/08/1979,28/11/2005,MA (History),A-,Homemaker,,,,,user
+K080504,K0805,Kalantri Kaushal Pankaj,9890987017,"Plot No 10-B, Mitramandal Co Op Housing Society, New Osmanpura , Aurangabad - 431 005",Son,9/11/2006,,Perusing 8th in Cambridge School,A-,,,,,,user
+K080505,K0805,Kalantri Kalyani Pankaj,9890987017,"Plot No 10-B, Mitramandal Co Op Housing Society, New Osmanpura , Aurangabad - 431 005",Daughter,22/08/2008,,Perusing 7th in Cambridge School,A-,,,,,,user
+K090601,K0906,Kalantri Rajendra,9850041888,"16 , Saphalya , New Shreyanagar , Near Kalda Corner , Aurangabad , M.S. 431001",Family Head,17/08/1973,8/12/2001,"D.N.B., D.M.R.D., M.B.B.S.",B+,"Prabhadevi Diagnostic Centre 
+1 , Sai Business Centre , Osmanpura , Aurangabad - 431001 - 02402343518",,,,,user
+K090602,K0906,Kalantri Deepali Rajendra,9011016884,"16 , Saphalya , New Shreyanagar , Near Kalda Corner , Aurangabad , M.S. 431001",Wife,28/11/1979,8/12/2001,M.Com,B+,Prabhadevi Diagnostic Centre,,,,,user
+K090603,K0906,Kalantri ,,"16 , Saphalya , New Shreyanagar , Near Kalda Corner , Aurangabad , M.S. 431001",,,,,,,,,,,user
+K090604,K0906,Kalantri ,,"16 , Saphalya , New Shreyanagar , Near Kalda Corner , Aurangabad , M.S. 431001",,,,,,,,,,,user
+K090605,K0906,Kalantri ,,"16 , Saphalya , New Shreyanagar , Near Kalda Corner , Aurangabad , M.S. 431001",,,,,,,,,,,user
+K090606,K0906,Kalantri ,,"16 , Saphalya , New Shreyanagar , Near Kalda Corner , Aurangabad , M.S. 431001",,,,,,,,,,,user
+K100301,K1003,Karwa Mahendra,9822343894,"27/4, Kirti Apartment, Near Kalda Corner, New Shreya Nagar, Aurangabad",Family Head,7/29/1976,4/14/2000,B.Com,O+,"Mahendra Dairy, Wholesale Foods Distribution
+7, Sushil Co-Operative Housing Society, Aurangabad",,,,,user
+K100302,K1003,Karwa Rajashree Mahendra,9420779683,"27/4, Kirti Apartment, Near Kalda Corner, New Shreya Nagar, Aurangabad",Wife,3/6/1979,4/14/2000,B.Sc,B+,House Maker,,,,,user
+K100303,K1003,Karwa Prem Mahendra,9822343894,"27/4, Kirti Apartment, Near Kalda Corner, New Shreya Nagar, Aurangabad",Son,4/13/2006,,STUDYING IN 9th STANDARD,B+,Student,,,,,user
+K111001,K1110,Karwa Rajendra,9423781726,"18B Radheraj, Suyash Colony, New Shreynagar, Aurangabad",Family Head,1/9/1968,2/22/1992,12th,O+,Business,,,,,user
+K111002,K1110,Karwa Radhabai,,"18B Radheraj, Suyash Colony, New Shreynagar, Aurangabad",Mother,4/27/2020,,,,,,,,,user
+K111003,K1110,Karwa Archana,,"18B Radheraj, Suyash Colony, New Shreynagar, Aurangabad",Wife,12/26/1972,2/22/1992,12th,B+,,,,,,user
+K111004,K1110,Karwa Purushottam,9422203026,"18B Radheraj, Suyash Colony, New Shreynagar, Aurangabad",Brother,4/26/1972,,Dpharmcy,B+,"Karwa Medical, Ghati Corner, Jubilee Park, Aurangabad",,,,,user
+K111005,K1110,Karwa Kalpana,7028017980,"18B Radheraj, Suyash Colony, New Shreynagar, Aurangabad",Brothers Wife,,,,,,,,,,user
+K111006,K1110,Karwa Shrikant,7588444634,"18B Radheraj, Suyash Colony, New Shreynagar, Aurangabad",Son,8/19/1994,2/11/2019,Btech,,Dfc Classes,,,,,user
+K111007,K1110,Karwa Koyal,,"18B Radheraj, Suyash Colony, New Shreynagar, Aurangabad",Daughter In Law,3/15/1995,2/11/2019,MCA,,,,,,,user
+K111008,K1110,Karwa Manisha,,"18B Radheraj, Suyash Colony, New Shreynagar, Aurangabad",Daughter,6/7/1997,,MCA 2nd year,,,,,,,user
+K111009,K1110,Karwa Lakshmikant,,"18B Radheraj, Suyash Colony, New Shreynagar, Aurangabad",Nephew,4/13/1998,,Bpharm 3rd year,,,,,,,user
+K111010,K1110,Karwa Sagar,,"18B Radheraj, Suyash Colony, New Shreynagar, Aurangabad",Nephew,10/13/2002,,12th,,,,,,,user
+K120301,K1203,Karwa Rameshwar,9822557766,"Flat No 6, Kirti Apartment, Near Malda Corner, New Shreynagar",Family Head,6/15/1975,5/29/2001,Bsc,A+,Job,,,,,user
+K120302,K1203,Karwa Rasika,9421901100,"Flat No 6, Kirti Apartment, Near Malda Corner, New Shreynagar",Wife,8/23/1980,5/29/2001,D.Pharmcy,O+,,,,,,user
+K120303,K1203,Karwa Raghav,,"Flat No 6, Kirti Apartment, Near Malda Corner, New Shreynagar",Son,7/24/2004,,10th,O+,,,,,,user
+K130701,K1307,Karwa Subhash,9326209506,"13,Sushil Housing Society, Shreyanagar Road,Opposite Panat Hospital, New Osmanpura, Aurangabad .",Family Head,7/31/1962,6/9/1990,"B.com,MBA,LLB",B+,"Marketing Manager, Nath Industries, Nath House, Nath Road, Ithkheda,431005,0240-6645474",,,,,user
+K130702,K1307,Karwa Hiralal Mohanlal,,"13,Sushil Housing Society, Shreyanagar Road,Opposite Panat Hospital, New Osmanpura, Aurangabad .",Son,12/19/1936,,"Bcom, LLB",B+,,,,,,user
+K130703,K1307,Karwa Sushma Subhash,9423174453,"13,Sushil Housing Society, Shreyanagar Road,Opposite Panat Hospital, New Osmanpura, Aurangabad .",Husband,10/9/1968,6/9/1990,Bsc,O+,,,,,,user
+K130704,K1307,Karwa Rajkumar Hiralal,,"13,Sushil Housing Society, Shreyanagar Road,Opposite Panat Hospital, New Osmanpura, Aurangabad .",Brother,4/18/1964,,,,,,,,,user
+K130705,K1307,Karwa Swapnil Subhash,9607444491,"13,Sushil Housing Society, Shreyanagar Road,Opposite Panat Hospital, New Osmanpura, Aurangabad .",Son,4/4/1991,11/20/2019,Computer Engineer,B+,"Test Engineer, Neova Tech Solutions, Magarpatta,Pune",,,,,user
+K130706,K1307,Karwa Pooja Swapnil,9970924778,"13,Sushil Housing Society, Shreyanagar Road,Opposite Panat Hospital, New Osmanpura, Aurangabad .",Daughter In Law,7/5/1993,11/20/2019,MCA,B+,"Software Engineer, Abmra, Pune",,,,,user
+K130707,K1307,Karwa Sagar Subhash,9552422364,"13,Sushil Housing Society, Shreyanagar Road,Opposite Panat Hospital, New Osmanpura, Aurangabad .",Son,5/4/1995,,Mtech,B+,,,,,,user
+K140501,K1405,Karwa Sushil,9545513362,"Flat No. 5 Building. No. C-2, Kalda Corner, Ranjit Nagar, Aurangabad",Family Head,9/17/1982,3/12/2011,PG COMMERCE,B+,Private Service,,,,,user
+K140502,K1405,Karwa Subhashchandra Parasram,8422851837,"Flat No. 5 Building. No. C-2, Kalda Corner, Ranjit Nagar, Aurangabad",Father,12/31/1957,,,,,,,,,user
+K140503,K1405,Karwa ,,"Flat No. 5 Building. No. C-2, Kalda Corner, Ranjit Nagar, Aurangabad",,,,,,,,,,,user
+K140504,K1405,Karwa ,,"Flat No. 5 Building. No. C-2, Kalda Corner, Ranjit Nagar, Aurangabad",,,,,,,,,,,user
+K140505,K1405,Karwa ,,"Flat No. 5 Building. No. C-2, Kalda Corner, Ranjit Nagar, Aurangabad",,,,,,,,,,,user
+L010501,L0105,Ladda Deepak,9422176526,"Maa , Opp Vasista Apt,Near Zambad Estate,New Shreynagar,Aurangabad",Family Head,31/07/1964,2/4/1989,B E,O+,"Venkatesh Electricals, Shop No 3,Indraprastha,Aurangpura,Aurangabad",,,,,user
+L010502,L0105,Ladda Sholika Deepak,7021197487,"Maa , Opp Vasista Apt,Near Zambad Estate,New Shreynagar,Aurangabad",Wife,5/3/1968,4/2/1989,M Com,B+,School Adminstrator,,,,,user
+L010503,L0105,Ladda Raman Deepak,8433722638,"Maa , Opp Vasista Apt,Near Zambad Estate,New Shreynagar,Aurangabad",Son,18/10/1991,3/12/2017,BE MBA,O+,Reliance Mumbai,,,,,user
+L010504,L0105,Ladda Vishkha Raman,7588770608,"Maa , Opp Vasista Apt,Near Zambad Estate,New Shreynagar,Aurangabad",Daughter In Law,15/03/1993,3/12/2017,B E Interior,O+,New Mumbai,,,,,user
+L010505,L0105,Ladda Renu Deepak,7021131339,"Maa , Opp Vasista Apt,Near Zambad Estate,New Shreynagar,Aurangabad",Daughter,25/02/1996,,BDS,O+,,,,,,user
+L020401,L0204,Ladda Jayprakash,9403021904,"R H No.3 Nandanwan,Sara Pride,Darga Road,Near Shreeram Chowk,Ranjeet Nagar, Kalda Corner, Aurangabad 431005",Family Head,1/1/1972,12/8/1997,D.PHARMACY,B+,"Ganesh Medical,Shop No.29,Stadium Shopping Complex, N-5,Cidco Aurangabad 431003,02402488946",,,,,user
+L020402,L0204,Ladda Namrata Jayprakash,9403021803,"R H No.3 Nandanwan,Sara Pride,Darga Road,Near Shreeram Chowk,Ranjeet Nagar, Kalda Corner, Aurangabad 431005",Wife,3/2/1977,12/8/1997,B.Com.,A+,Housewife,,,,,user
+L020403,L0204,Ladda Suyash Jayprakash,8087526962,"R H No.3 Nandanwan,Sara Pride,Darga Road,Near Shreeram Chowk,Ranjeet Nagar, Kalda Corner, Aurangabad 431005",Son,9/27/1998,,3rd year engineering,O+,Not Yet,,,,,user
+L020404,L0204,Ladda Sakshi Jayprakash,9403226700,"R H No.3 Nandanwan,Sara Pride,Darga Road,Near Shreeram Chowk,Ranjeet Nagar, Kalda Corner, Aurangabad 431005",Daughter,3/4/2003,,11th Science,A+,,,,,,user
+L030401,L0304,Ladda Uday,8237389321,Flat No 11 Jai Ariihant Society Muthiyan Corner Usmanpura 431005,Family Head,12/2/1968,18/05/1993,B.com ,O+,Rashi Automobile City Pride Building Mondanaka Jalna Road,,,,,user
+L030402,L0304,Ladda Shweta Uday,7058671022,Flat No 11 Jai Ariihant Society Muthiyan Corner Usmanpura 431005,Wife,15/02/1972,18/05/1993,B.com,A+,Hosewife,,,,,user
+L030403,L0304,Ladda Tejas Uday,9665588219,Flat No 11 Jai Ariihant Society Muthiyan Corner Usmanpura 431005,Son,2/12/1994,,Civil engineer,A+,Ss Ghorpade Pvt. Ltd. Pune,,,,,user
+L030404,L0304,Ladda Tejal Uday,8625069207,Flat No 11 Jai Ariihant Society Muthiyan Corner Usmanpura 431005,Daughter,25/06/2000,,B.Com with banking,O+,,,,,,user
+L040401,L0404,Lahoti Pradeep,9850112599,"Plot No. 80,Flat No. 5,Vinayak Apartment, Behind Sant Eknath Rangmandir, New Osmanpura, Auragabad, Maharashtra, 431005",Family Head,10/3/1964,4/12/1989,B.Com,O+,Retired,,,,,user
+L040402,L0404,Lahoti Ranjana,9850893599,"Plot No. 80,Flat No. 5,Vinayak Apartment, Behind Sant Eknath Rangmandir, New Osmanpura, Auragabad, Maharashtra, 431005",Wife,17/12/1967,4/12/1989,SSC,O+,,,,,,user
+L040403,L0404,Lahoti Pranav,8975332661,"Plot No. 80,Flat No. 5,Vinayak Apartment, Behind Sant Eknath Rangmandir, New Osmanpura, Auragabad, Maharashtra, 431005",Son,11/10/1993,6/12/2019,"B. E. (E&TC), PGDESD CDAC Chennai",O+,"Nvidia Graphics, Commerce Zone, Yerwada, Pune",,,,,user
+L040404,L0404,Lahoti Pooja,8275452748,"Plot No. 80,Flat No. 5,Vinayak Apartment, Behind Sant Eknath Rangmandir, New Osmanpura, Auragabad, Maharashtra, 431005",Daughter In Law,30/09/1994,6/12/2019,B. E. Computer Science,B-,"Cybage, Kharadi, Pune",,,,,user
+L051201,L0512,Lahoti Sanjay,9270603100,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Family Head,25/11/1962,6/3/1987,BCOM DTL,O+,"Gift Shopee, Shant Ganga Complex Dashmeshnagar",,,,,user
+L051202,L0512,Lahoti Anil Sitaramji,7499245835,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Brother,5/10/1965,20/02/1994,BA,,Contractor,,,,,user
+L051203,L0512,Lahoti Pravin Sitaramji,9822769806,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Brother,26/11/1968,8/6/1998,BA,,"Electrical Shop. Surbhi Electronics Peer Bazar,Osmanpura",,,,,user
+L051204,L0512,Lahoti Jyoti Sanjay,9028885589,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Wife,19/07/1965,6/3/1987,MCOM,,Boutique. Plot No 15 Gangasadan New Osmanpura Vikas Nagar,,,,,user
+L051205,L0512,Lahoti Pratik Sanjay,9527720067,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Son,22/10/1995,,MBA FINANCE,,Gallagher Pune,,,,,user
+L051206,L0512,Lahoti Rita Pravin,8087525239,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Brother'S Wife,22/08/1974,8/6/1998,BA,,Beauty Parlour. Plot No 15 Gangasadan Vikas Nagar New Osmanpura,,,,,user
+L051207,L0512,Lahoti Sakshi Pravin,9130778425,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Niece,31/07/1999,,,,,,,,,user
+L051208,L0512,Lahoti Harsh Pravin,,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Nephew,28/06/2002,,,,,,,,,user
+L051209,L0512,Lahoti Sulochana Sitaramji,,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Mother,17/08/1944,23/11/1960,,,,,,,,user
+L051210,L0512,Lahoti Kalpana Anil,,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Brother'S Wife,10/5/1972,20/02/1994,SSC,,,,,,,user
+L051211,L0512,Lahoti Kantikumar Anil,,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Nephew,27/06/1995,,ENGINEER,,,,,,,user
+L051212,L0512,Lahoti Onkar Anil,,"Plot No 15, Gangasadan, New Osmanpura, Vikas Nagar Abad",Nephew,14/07/2000,,,,,,,,,user
+L060301,L0603,Lahoti Vinod,9423395324,Flat No 4 Plot No 11 Ranjeet Nager,Family Head,29/12/1975,5/12/2006,Bsc,O+,"Fairdeal Corporation 
+Dealer Gowardhan Ghee Atta Rawa Maida Salt
+",,,,,user
+L060302,L0603,Lahoti Vinaya,9373496288,Flat No 4 Plot No 11 Ranjeet Nager,Wife,26/11/1978,,MSW,B+,Teacher,,,,,user
+L060303,L0603,Lahoti Prathana,,Flat No 4 Plot No 11 Ranjeet Nager,Daughter,9/8/2009,,6th,B+,,,,,,user
+L070601,L0706,Lakhotiya Jugalkishor,9421480521,"Flat No. 5 , "" Success Regency"" Shreya Nager, Aurangabad",Family Head,15/12/1986,8/7/2011,MBA ( Finance ),Not Checked Yet,Asst. Manager - International Business,,,,,user
+L070602,L0706,Lakhotiya Priti,9422167906,"Flat No. 5 , "" Success Regency"" Shreya Nager, Aurangabad",Wife,16/06/1987,8/7/2011,BA,,Bus - Lakhotiya'S Cake & Baker'S,,,,,user
+L070603,L0706,Lakhotiya Kailas,9545618021,"Flat No. 5 , "" Success Regency"" Shreya Nager, Aurangabad",Brother,6/12/1988,15/07/2018,MBA,,Furniture Show Room,,,,,user
+L070604,L0706,Lakhotiya Nikita,8080480403,"Flat No. 5 , "" Success Regency"" Shreya Nager, Aurangabad",Brother In Law,23/01/1992,15/07/2018,BA,,House Wife,,,,,user
+L070605,L0706,Lakhotiya ,,"Flat No. 5 , "" Success Regency"" Shreya Nager, Aurangabad",,,,,,,,,,,user
+L070606,L0706,Lakhotiya ,,"Flat No. 5 , "" Success Regency"" Shreya Nager, Aurangabad",,,,,,,,,,,user
+L080401,L0804,Lakhotiya Rahul,9970053630,"Flat No. 04, Plot No.40, Opp Samarth Netralaya, Shrey Nagar, Aurangabad",Family Head,5/25/1975,11/16/2002,M.com& Diploma in DDGM,B+,"Professor, Govt. Polytechnic Aurangabad",,,,,user
+L080402,L0804,Lakhotiya Rahul Rameshchandra,9970053630,"Flat No. 04, Plot No.40, Opp Samarth Netralaya, Shrey Nagar, Aurangabad",Husband,2/6/1973,11/16/2002,B.E. production,B+,"Om Envelopes & Wedding Cards, Belapur, Taluka- Shrirampur",,,,,user
+L080403,L0804,Lakhotiya Shrijeet Rahul,9970053628,"Flat No. 04, Plot No.40, Opp Samarth Netralaya, Shrey Nagar, Aurangabad",Son,4/14/2004,,Appeared for X grade,,Nil,,,,,user
+L080404,L0804,Lakhotiya Siddhi Rahul,9970053628,"Flat No. 04, Plot No.40, Opp Samarth Netralaya, Shrey Nagar, Aurangabad",Daughter,7/23/2008,,Appeared for VI grade,,Nil,,,,,user
+L090401,L0904,Lakhotiya Sagar Ramanlal Sagar,9890905051,"Sara Pride A1/13,Ranjeet Nagar, Opposite Kalda Corner, Aurangabad",Family Head,21/06/1984,31/12/2019,BBA,Not Checked Yet,"Shree Mahesh Dth Shoppe & Services,Shop No.2,Upasana Apartment,Near Vishvroop Hall,Jyoti Nagar, Aurangabad 431001,(0240-2345369)",,,,,user
+L090402,L0904,"Lakhotiya Sagar Ramanlal Sagar,Bhavna,Smt Swati,Kunal",8412909052,"Sara Pride A1/13,Ranjeet Nagar, Opposite Kalda Corner, Aurangabad",Wife,18/10/1985,31/12/2018,Bcom,,House Wife,,,,,user
+L090403,L0904,Lakhotiya Sagar Ramanlal ,,"Sara Pride A1/13,Ranjeet Nagar, Opposite Kalda Corner, Aurangabad",,,,,,,,,,,user
+L090404,L0904,Lakhotiya Sagar Ramanlal ,,"Sara Pride A1/13,Ranjeet Nagar, Opposite Kalda Corner, Aurangabad",,,,,,,,,,,user
+L100201,L1002,Lakhotiya Savita,9158507004,Zambad Estate,Family Head,15/11/1972,,,Not Checked Yet,Housewife,,,,,user
+L100202,L1002,Lakhotiya Rohit,9158507004,Zambad Estate,Son,6/9/1989,,B-com,A+,Café Shop,,,,,user
+L110401,L1104,Lohiya Jaynarayan,8275043615,"Rose Garden,Flat No 2,Shreyanagar",Family Head,23/10/1970,20/05/1997,10,O+,Farmer,,,,,user
+L110402,L1104,Lohiya Leena,8275043616,"Rose Garden,Flat No 2,Shreyanagar",Wife,26/03/1974,20/05/1997,10,,Farmer,,,,,user
+L110403,L1104,Lohiya ,,"Rose Garden,Flat No 2,Shreyanagar",,,,,,,,,,,user
+L110404,L1104,Lohiya ,,"Rose Garden,Flat No 2,Shreyanagar",,,,,,,,,,,user
+L121101,L1211,Loya Dwarkanath,9823066438,",5-5-31 Loya Towers Kranti Chowk.",Family Head,20/10/1942,12/5/1967,Llb,AB+,Retired,,,,,user
+L121102,L1211,Loya Taradevi Dwarkanath,9370202546,",5-5-31 Loya Towers Kranti Chowk.",Wife,13/04/1947,12/5/1967,,,,,,,,user
+L121103,L1211,Loya Manon Dwarkanath,,",5-5-31 Loya Towers Kranti Chowk.",Son,14/08/1969,,12th,,"Ice Cream Parlour,5-5-31 Loya Towers
+",,,,,user
+L121104,L1211,Loya Pankaj Dwarkanath,9823066438,",5-5-31 Loya Towers Kranti Chowk.",Son,9/8/1970,20/02/1999,Mba,O+,"Balaji Trading Corporation,Electrical Goods,5-5-31 Loya Towers Kranti Chowk.",,,,,user
+L121105,L1211,Loya Niraj Dwarkanath,,",5-5-31 Loya Towers Kranti Chowk.",Son,27/03/1973,,B.com,,"Balaji Trading Corporation,Electrical Goods,5-5-31 Loya Towers Kranti Chowk.",,,,,user
+L121106,L1211,Loya Paresh Dwarkanath,9823049779,",5-5-31 Loya Towers Kranti Chowk.",Son,26/04/1976,7/7/2007,B.Mech,,"Balaji Trading Corporation,Electrical Goods,5-5-31 Loya Towers Kranti Chowk.",,,,,user
+L121107,L1211,Loya Jaishree Pankaj,9403760099,",5-5-31 Loya Towers Kranti Chowk.",Daughter In Law,21/08/1977,20/02/1999,B.com,,,,,,,user
+L121108,L1211,Loya Suchita Paresh,9403760088,",5-5-31 Loya Towers Kranti Chowk.",Daughter In Law,30/01/1981,7/7/2007,B.com,,,,,,,user
+L121109,L1211,Loya Sejal Pankaj,,",5-5-31 Loya Towers Kranti Chowk.",Granddaughter,27/01/2000,,"2nd Year, B.L.S./LL.B",,,,,,,user
+L121110,L1211,Loya Aditya Pankaj,,",5-5-31 Loya Towers Kranti Chowk.",Grandson,26/08/2004,,10th,,,,,,,user
+L121111,L1211,Loya Ayush Paresh,,",5-5-31 Loya Towers Kranti Chowk.",Grandson,23/12/2008,,5th,,,,,,,user
+L130501,L1305,Loya Shivprasad,9960644074,"A-2/3,Sayali Residency,Shreya Nagar,Zambad Estate,Aurangabad",Family Head,8/8/1967,3/12/1992,BCom,B+,Part Time Accounting Job Work,,,,,user
+L130502,L1305,Loya Chandrabhaga,,"A-2/3,Sayali Residency,Shreya Nagar,Zambad Estate,Aurangabad",Mother,1/1/1944,,,,,,,,,user
+L130503,L1305,Loya Vandana,7083410642,"A-2/3,Sayali Residency,Shreya Nagar,Zambad Estate,Aurangabad",Wife,23/07/1972,,,,,,,,,user
+L130504,L1305,Loya Shubham,9421939437,"A-2/3,Sayali Residency,Shreya Nagar,Zambad Estate,Aurangabad",Son,11/3/1996,,,,,,,,,user
+L130505,L1305,Loya Sakshi,,"A-2/3,Sayali Residency,Shreya Nagar,Zambad Estate,Aurangabad",Daughter,8/7/2000,,,,,,,,,user
+M010401,M0104,Maheshwari Ajay,9370845444,Tapi Appt Zambad Estate New Shrey Nagar,Family Head,27/02/1982,9/7/2005,,Not Checked Yet,Bharat Bazar,,,,,user
+M010402,M0104,Maheshwari Shrilekha Ajay,9371230118,Tapi Appt Zambad Estate New Shrey Nagar,Wife,1/27/1982,9/7/2005,,,,,,,,user
+M010403,M0104,Maheshwari Jai Ajay,,Tapi Appt Zambad Estate New Shrey Nagar,Son,4/22/2006,,,,,,,,,user
+M010404,M0104,Maheshwari Dev Ajay,,Tapi Appt Zambad Estate New Shrey Nagar,Son,1/31/2011,,,,,,,,,user
+M020501,M0205,Maheshwari Nishant,9326969257,A 402 Palm Leaves Nagpal Building Opposite To Bembde Hospital Near Dargah Road Flyover Beed By Paas,Family Head,21/05/1969,9/1/1991,BCom,Not Checked Yet,Neha Enterprises-Hydruaclic Hose Pipe Dealer,,,,,user
+M020502,M0205,Maheshwari Sangeeta,9326969257,A 402 Palm Leaves Nagpal Building Opposite To Bembde Hospital Near Dargah Road Flyover Beed By Paas,Wife,31/03/1969,,,,,,,,,user
+M020503,M0205,Maheshwari ,,A 402 Palm Leaves Nagpal Building Opposite To Bembde Hospital Near Dargah Road Flyover Beed By Paas,,,,,,,,,,,user
+M020504,M0205,Maheshwari ,,A 402 Palm Leaves Nagpal Building Opposite To Bembde Hospital Near Dargah Road Flyover Beed By Paas,,,,,,,,,,,user
+M020505,M0205,Maheshwari ,,A 402 Palm Leaves Nagpal Building Opposite To Bembde Hospital Near Dargah Road Flyover Beed By Paas,,,,,,,,,,,user
+M030601,M0306,Malani Anil,9823911460,Flat No. 102 Ck Tower Shreya Nagar Aurangabad,Family Head,13/11/1976,17/01/2005,BSL LLB,B+,"Advocate Office At Flat No. 4-A, Disha Chintamani Apartment Vivekanandpuram Peer Bazar Aurangabad",,,,,user
+M030602,M0306,Malani Shantabai Pandurang,9823911460,Flat No. 102 Ck Tower Shreya Nagar Aurangabad,Mother,1/1/1950,1/1/1965,nil,B+,No,,,,,user
+M030603,M0306,Malani Mangal Anil,9423779778,Flat No. 102 Ck Tower Shreya Nagar Aurangabad,Wife,13/03/1976,17/01/2005,B.Com,B+,Housewife,,,,,user
+M030604,M0306,Malani Parth Anil,9422262226,Flat No. 102 Ck Tower Shreya Nagar Aurangabad,Son,3/5/2007,,8th Standard Cambridge School,B+,,,,,,user
+M030605,M0306,Malani Sarthak Anil,9423911460,Flat No. 102 Ck Tower Shreya Nagar Aurangabad,Son,7/3/2008,,07th standard Cambridge School,B+,,,,,,user
+M030606,M0306,Malani Pandurang Bansilal,9823911460,Flat No. 102 Ck Tower Shreya Nagar Aurangabad,Father,1/1/1947,,Nil,B+,,,,,,user
+M040601,M0406,Malani Subhash,9422211869,"18,Vikas Nager Osmanpura Aurangabad",Family Head,11/30/1952,5/10/1978,B.com LLB,AB+,Advocate,,,,,user
+M040602,M0406,Malani Dawarkh,9423187834,"18,Vikas Nager Osmanpura Aurangabad",Wife,4/29/1955,5/10/1987,S.S.C,AB+,House Wife,,,,,user
+M040603,M0406,Malani Rahul Subhash,8275069147,"18,Vikas Nager Osmanpura Aurangabad",Son,5/25/1986,6/24/2010,LLB,AB+,Advocate,,,,,user
+M040604,M0406,Malani Mayuri Rahul,9730024261,"18,Vikas Nager Osmanpura Aurangabad",Daughter In Law,1/3/1988,6/24/2010,B.com,B-,House Wife,,,,,user
+M040605,M0406,Malani Swara Rahul,8275069147,"18,Vikas Nager Osmanpura Aurangabad",Grand Daughter,7/29/2013,,Second class,AB+,Education,,,,,user
+M040606,M0406,Malani Ishan Rahul,8275069147,"18,Vikas Nager Osmanpura Aurangabad",Grand Son,6/3/2017,,Play group,AB+,No,,,,,user
+M050801,M0508,Maliwal Radheshyam,9325210317,"Ishdaya' Shambhu Nagar, Near Garkheda Stadium, Aurangabad - 431005
+",Family Head,27/08/1960,1/3/1987,B. Come DBM,B-,Business,,,,,user
+M050802,M0508,Maliwal Rekha,9325223007,"Ishdaya' Shambhu Nagar, Near Garkheda Stadium, Aurangabad - 431005
+",Wife,25/10/1961,1/3/1987,M.A,AB+,"Panache' Pop. Utsav Mangal Karyalaya , Osmanpura, Aurangabad -431005",,,,,user
+M050803,M0508,Maliwal Aditya Radheshyam,9370786777,"Ishdaya' Shambhu Nagar, Near Garkheda Stadium, Aurangabad - 431005
+",Son,28/01/1989,15/12/2014,M.I.B,AB+,"Ambitious Corp, Aishwarya Apt, Opposite. Citi Care Hospital, Osmanpura, Aurangabad-431005",,,,,user
+M050804,M0508,Maliwal Vikram Radheshyam,9325345007,"Ishdaya' Shambhu Nagar, Near Garkheda Stadium, Aurangabad - 431005
+",Son,28/01/1989,17/02/2016,B.E (computers ),AB+,"Shree Ram Motor Stores, Anna Bhau Sathe Cheek, Nanded-431604",,,,,user
+M050805,M0508,Maliwal Arti Aditya,9168162720,"Ishdaya' Shambhu Nagar, Near Garkheda Stadium, Aurangabad - 431005
+",Daughter In Law,19/07/1988,15/12/2014,M.Com,A+,,,,,,user
+M050806,M0508,Maliwal Payal Vikram,7020406031,"Ishdaya' Shambhu Nagar, Near Garkheda Stadium, Aurangabad - 431005
+",Daughter In Law,15/04/1992,17/02/2016,Interior designer,A+,,,,,,user
+M050807,M0508,Maliwal Vaani Vikram,,"Ishdaya' Shambhu Nagar, Near Garkheda Stadium, Aurangabad - 431005
+",Grand Daughter,19/02/2017,,,,,,,,,user
+M050808,M0508,Maliwal Saanjh Aditya,,"Ishdaya' Shambhu Nagar, Near Garkheda Stadium, Aurangabad - 431005
+",Grand Daughter,26/07/2017,,,,,,,,,user
+M060401,M0604,Maliwal Saurabh,9822417744,"Flat No. A-3, Sharad Apartment, New Shrey Nagar, Aurangabad 431001",Family Head,6/12/1985,9/2/2015,,A+,"Accounts Officer At Machhar Packaging Services Pvt Ltd 16 Km Stone, Aurangabad-Paithan Road, Near Chitegaon, Aurangabad 431105",,,,,user
+M060402,M0604,Maliwal Shila Subhashchandra,9767269970,"Flat No. A-3, Sharad Apartment, New Shrey Nagar, Aurangabad 431001",Mother,4/6/1962,,,A+,,,,,,user
+M060403,M0604,Maliwal Radhika Saurabh,7276914454,"Flat No. A-3, Sharad Apartment, New Shrey Nagar, Aurangabad 431001",Wife,27/09/1993,9/2/2015,,O+,,,,,,user
+M060404,M0604,Maliwal Vivaan Saurabh,,"Flat No. A-3, Sharad Apartment, New Shrey Nagar, Aurangabad 431001",Son,10/12/2017,,,,,,,,,user
+M070901,M0709,Malpani Gopal,9823388620,"Ramkunj, Railway Station Road New Osmanpura Aurangabad",Family Head,12/20/1974,,CA,AB+,Chartered Accountant,,,,,user
+M070902,M0709,Malpani Radha,9403629134,"Ramkunj, Railway Station Road New Osmanpura Aurangabad",Mother,2/4/1954,,,,,,,,,user
+M070903,M0709,Malpani Manorama,9422202700,"Ramkunj, Railway Station Road New Osmanpura Aurangabad",Wife,8/25/1978,,,,,,,,,user
+M070904,M0709,Malpani Harsh,,"Ramkunj, Railway Station Road New Osmanpura Aurangabad",Son,6/4/2004,,,,,,,,,user
+M070905,M0709,Malpani Madhuri,,"Ramkunj, Railway Station Road New Osmanpura Aurangabad",Daughter,10/19/2006,,,,,,,,,user
+M070906,M0709,Malpani Nandkishor,9823388620,"Ramkunj, Railway Station Road New Osmanpura Aurangabad",Brother,2/24/1979,5/11/2005,Ca,AB+,Chartered Accountant,,,,,user
+M070907,M0709,Malpani Sarika,9422272478,"Ramkunj, Railway Station Road New Osmanpura Aurangabad",Brithers Wife,1/17/1983,,LLB,,"Chaitanya Foods, Mabufacturer Of Bakery Products",,,,,user
+M070908,M0709,Malpani Riya,,"Ramkunj, Railway Station Road New Osmanpura Aurangabad",Niece,5/4/2006,,,,,,,,,user
+M070909,M0709,Malpani Aditya,,"Ramkunj, Railway Station Road New Osmanpura Aurangabad",Nephew,7/13/2010,,,,,,,,,user
+M080201,M0802,Malpani Ramniwas,9422203752,"“Ankit”, 24, Shubham Hsg Society, Zambad Estate, Shreynagar, Aurangabad-431005",Family Head,4/1/1955,2/25/1984,B. Com. F. C. A.,A+,"Practicing C A.
+R. H. Malpani & Company, 208, Arhat Market, Laxman Chawdi, Mondha Road, Aurangabad-431001",,,,,user
+M080202,M0802,Malpani Kiran Ramniwas,9420813391,"“Ankit”, 24, Shubham Hsg Society, Zambad Estate, Shreynagar, Aurangabad-431005",Wife,11/7/1964,2/25/1984,HSC,B-,House Hold,,,,,user
+M090501,M0905,Malu Dilip,9822406667,"61 Radha Jatan , Shubham Housing Society , Zambad Estate New Shreya Nagar,Aurangabad 431005 ( Maharashtra)",Family Head,18/08/1975,20/01/1984,D PHARM C,AB+,Business,,,,,user
+M090502,M0905,Malu Chanchala Dilip,,"61 Radha Jatan , Shubham Housing Society , Zambad Estate New Shreya Nagar,Aurangabad 431005 ( Maharashtra)",Wife,17/11/1963,20/01/1984,B COM,B+,,,,,,user
+M090503,M0905,Malu Nikhil Dilip,9922414004,"61 Radha Jatan , Shubham Housing Society , Zambad Estate New Shreya Nagar,Aurangabad 431005 ( Maharashtra)",Son,19/12/1986,28/01/2016,"MBA , CA P2, LLB 3 YEAR",B+,Business,,,,,user
+M090504,M0905,Malu Neelambari,9422730707,"61 Radha Jatan , Shubham Housing Society , Zambad Estate New Shreya Nagar,Aurangabad 431005 ( Maharashtra)",Wife,5/8/1986,28/08/2016,MBA,A-,,,,,,user
+M090505,M0905,Malu Myra Nikhil,9922414004,"61 Radha Jatan , Shubham Housing Society , Zambad Estate New Shreya Nagar,Aurangabad 431005 ( Maharashtra)",Daughter,30/12/2017,,,A+,,,,,,user
+M100801,M1008,Malu Dinesh,7709809172,"Swagat Sahniwas,Flat No 4,Plot No 108,
+New Shreya Nagar.",Family Head,4/7/1980,6/11/2003,B.com,B+,"Maharashtra Stationers,New Gulmandi Road,431001",,,,,user
+M100802,M1008,Malu Radhika Dinesh,7709809172,"Swagat Sahniwas,Flat No 4,Plot No 108,
+New Shreya Nagar.",Wife,10/22/1981,6/11/2003,B.com,O+,"Swagat Sahniwas,Flat No 4,Plot No 108,
+New Shreya Nagar.",,,,,user
+M100803,M1008,Malu ,,"Swagat Sahniwas,Flat No 4,Plot No 108,
+New Shreya Nagar.",,,,,,,,,,,user
+M100804,M1008,Malu ,,"Swagat Sahniwas,Flat No 4,Plot No 108,
+New Shreya Nagar.",,,,,,,,,,,user
+M100805,M1008,Malu ,,"Swagat Sahniwas,Flat No 4,Plot No 108,
+New Shreya Nagar.",,,,,,,,,,,user
+M100806,M1008,Malu ,,"Swagat Sahniwas,Flat No 4,Plot No 108,
+New Shreya Nagar.",,,,,,,,,,,user
+M100807,M1008,Malu ,,"Swagat Sahniwas,Flat No 4,Plot No 108,
+New Shreya Nagar.",,,,,,,,,,,user
+M100808,M1008,Malu ,,"Swagat Sahniwas,Flat No 4,Plot No 108,
+New Shreya Nagar.",,,,,,,,,,,user
+M110401,M1104,Malu Manoj,9822285199,"26, Shyam Sadan , Shubham Hsg Society, Zambad Estate , Shreyanagar , Aurangabad",Family Head,26/06/1978,28/05/2005,B.E. Production,AB+,Business,,,,,user
+M110402,M1104,Malu Deepali Manoj,9420128298,"26, Shyam Sadan , Shubham Hsg Society, Zambad Estate , Shreyanagar , Aurangabad",Wife,11/11/1978,28/05/2005,M.COM,A+,House Wife,,,,,user
+M110403,M1104,Malu Aryan Manoj,,"26, Shyam Sadan , Shubham Hsg Society, Zambad Estate , Shreyanagar , Aurangabad",Son,5/9/2006,,9th STD,AB+,Studying,,,,,user
+M110404,M1104,Malu Aarush Manoj,,"26, Shyam Sadan , Shubham Hsg Society, Zambad Estate , Shreyanagar , Aurangabad",Son,7/11/2010,,4th STD,A+,Studying,,,,,user
+M120501,M1205,Malu Rajesh,9766038189,"Flat No.3,Kirti Apartment Suyash Colony Shreya Nagar, Aurangabad Maharashtra 431005",Family Head,5/28/1983,5/1/2012,Chartered Accountant,B+,R K Malu And Co,,,,,user
+M120502,M1205,Malu Trupti Rajesh,7588928364,"Flat No.3,Kirti Apartment Suyash Colony Shreya Nagar, Aurangabad Maharashtra 431005",Wife,11/11/1983,5/1/2012,Diploma in Taxation law,,,,,,,user
+M120503,M1205,Malu Kacharulalji Bankatlalji,9561310533,"Flat No.3,Kirti Apartment Suyash Colony Shreya Nagar, Aurangabad Maharashtra 431005",Father,11/27/1950,,,,,,,,,user
+M120504,M1205,Malu Savita Kacharulalji,9405359432,"Flat No.3,Kirti Apartment Suyash Colony Shreya Nagar, Aurangabad Maharashtra 431005",Mother,2/11/1954,3/1/1978,,,,,,,,user
+M120505,M1205,Malu Aarushi Rajesh,,"Flat No.3,Kirti Apartment Suyash Colony Shreya Nagar, Aurangabad Maharashtra 431005",Daughter,9/16/2013,,,,,,,,,user
+M130301,M1303,Malu Satish,8275924964,"Satish Radhakishanji Malu
+Flat No.2, Kavery Appt.
+Near Meenatai Thakare Hall Zambad Estate, New Shreya Nagar
+Aurangabad
+Kranti Chpwk Aurangabad
+Maharashtra 431005
+",Family Head,12/5/1959,12/7/1989,B.com,B+,"Job At Pharmaceutical Company, Jatan Pharmaceuticals, Adalat Road, Aurangabad, 431005.",,,,,user
+M130302,M1303,Malu Sumitra Satish Malu,9421679482,"Satish Radhakishanji Malu
+Flat No.2, Kavery Appt.
+Near Meenatai Thakare Hall Zambad Estate, New Shreya Nagar
+Aurangabad
+Kranti Chpwk Aurangabad
+Maharashtra 431005
+",Wife,2/9/1967,12/7/1989,B.com,B+,"Job As A Teacher At Pankh Pre School, Shreya Nagar, Aurangabad.431005- 02402351699",,,,,user
+M130303,M1303,Malu Malu Aakanksha Satish,7972868265,"Satish Radhakishanji Malu
+Flat No.2, Kavery Appt.
+Near Meenatai Thakare Hall Zambad Estate, New Shreya Nagar
+Aurangabad
+Kranti Chpwk Aurangabad
+Maharashtra 431005
+",Daughter,9/5/1998,,Pursuing bachelor of architecture.,B+,,,,,,user
+M140901,M1409,Malu Shri Prakash,7276596447,"18 , Aakanksha , Supratham Co-Op. Hsg. Soceity ,Zambad Estate , Shreyanagar ,
+Aurangabad - 431005 ( M.S.)",Family Head,21/01/1951,22/06/1978,B com.,Not Checked Yet,"S S Enterprises 
+Distributor For 
+Diversey India Pvt. Ltd.",,,,,user
+M140902,M1409,Malu Sau.Pushpa Prakash,9423947782,"18 , Aakanksha , Supratham Co-Op. Hsg. Soceity ,Zambad Estate , Shreyanagar ,
+Aurangabad - 431005 ( M.S.)",Wife,3/8/1954,22/06/1978,10,B+,House Wife,,,,,user
+M140903,M1409,Malu Sunil Prakash,9421047972,"18 , Aakanksha , Supratham Co-Op. Hsg. Soceity ,Zambad Estate , Shreyanagar ,
+Aurangabad - 431005 ( M.S.)",Son,26/05/1979,25/04/2009,B Com & DTL,B+,Service,,,,,user
+M140904,M1409,Malu Mahesh Prakash,9421675025,"18 , Aakanksha , Supratham Co-Op. Hsg. Soceity ,Zambad Estate , Shreyanagar ,
+Aurangabad - 431005 ( M.S.)",Son,17/08/1985,28/06/2017,B com & DBM,B+,"Business
+Pushpa Trading Corporation",,,,,user
+M140905,M1409,Malu Deepa Sunil,9403202998,"18 , Aakanksha , Supratham Co-Op. Hsg. Soceity ,Zambad Estate , Shreyanagar ,
+Aurangabad - 431005 ( M.S.)",Daughter In Law,5/11/1982,26/04/2009,B COM,,"House Wife
+",,,,,user
+M140906,M1409,Malu Sau Pooja Mahesh,9405276892,"18 , Aakanksha , Supratham Co-Op. Hsg. Soceity ,Zambad Estate , Shreyanagar ,
+Aurangabad - 431005 ( M.S.)",Daughter In Law,20/11/1986,28/06/2017,B com & MCM,B+,House Wife,,,,,user
+M140907,M1409,Malu Shourya Sunil,9421047972,"18 , Aakanksha , Supratham Co-Op. Hsg. Soceity ,Zambad Estate , Shreyanagar ,
+Aurangabad - 431005 ( M.S.)",Grand Son,20/12/2009,,Student,,Student,,,,,user
+M140908,M1409,Malu Ansh Sunil,9421047972,"18 , Aakanksha , Supratham Co-Op. Hsg. Soceity ,Zambad Estate , Shreyanagar ,
+Aurangabad - 431005 ( M.S.)",Grandson,6/11/2012,,Student,,Student,,,,,user
+M140909,M1409,Malu Reyansh Mahesh,9421675025,"18 , Aakanksha , Supratham Co-Op. Hsg. Soceity ,Zambad Estate , Shreyanagar ,
+Aurangabad - 431005 ( M.S.)",Grand Son,6/11/2018,,Student,,"Student
+",,,,,user
+M150501,M1505,Malu Vinod,9822020517,"Plot No 28, Prem Kutir, Swarsangam Hsg Society, Shreynagar, Zambad Estate, Nr Meenatai Thakre Hall Aurangabad 431005",Family Head,14/07/1974,20/06/2002,Diploma in Production Technology,B+,"Shree Financials 
+Plot No 33, Friends Colony, Station Road, Opp Divekar Plaza/Hdfc Bank, Aurangabad 431005",,,,,user
+M150502,M1505,Malu Santoshbai Sureshchandra,7588401626,"Plot No 28, Prem Kutir, Swarsangam Hsg Society, Shreynagar, Zambad Estate, Nr Meenatai Thakre Hall Aurangabad 431005",Mother,1/6/1956,,Under Graduate,,,,,,,user
+M150503,M1505,Malu Shailaja Vinod,9881133033,"Plot No 28, Prem Kutir, Swarsangam Hsg Society, Shreynagar, Zambad Estate, Nr Meenatai Thakre Hall Aurangabad 431005",Wife,28/06/1976,20/06/2002,B.COM,A+,,,,,,user
+M150504,M1505,Malu Devanshi Vinod,,"Plot No 28, Prem Kutir, Swarsangam Hsg Society, Shreynagar, Zambad Estate, Nr Meenatai Thakre Hall Aurangabad 431005",Daughter,15/02/2006,,9th,B+,,,,,,user
+M150505,M1505,Malu Vedika Vinod,,"Plot No 28, Prem Kutir, Swarsangam Hsg Society, Shreynagar, Zambad Estate, Nr Meenatai Thakre Hall Aurangabad 431005",Daughter,14/08/2009,,6th,B+,,,,,,user
+M160601,M1606,Maniyar Vishnukant Ji,9923009366,"Vishnu-Padma', 37, Pannalal Nagar. Nesr Ashtavinayak Temple. Aurangabad. 431003",Family Head,4/6/1957,1/6/1979,Poly technic,B+,"Maniyar Wholesale Market. 18, Seven Hills, Opp Mgm Hospital, Jalna Road, Aurangabad. 431005",,,,,user
+M160602,M1606,Maniyar Padma Vishnukant,9923009361,"Vishnu-Padma', 37, Pannalal Nagar. Nesr Ashtavinayak Temple. Aurangabad. 431003",Wife,20/07/1960,1/6/1979,,,Homemaker,,,,,user
+M160603,M1606,Maniyar Harihar Vishnukant,9923009366,"Vishnu-Padma', 37, Pannalal Nagar. Nesr Ashtavinayak Temple. Aurangabad. 431003",Son,16/11/1981,19/04/2007,MBA AND MASTERS IN RETAIL MANAGEMENT,B+,"Maniyar Wholesale Market. 18, Seven Hills, Opp. Mgm Hospital, Jalna Road Aurangabad. 431001",,,,,user
+M160604,M1606,Maniyar Shveta Harihar,9923009369,"Vishnu-Padma', 37, Pannalal Nagar. Nesr Ashtavinayak Temple. Aurangabad. 431003",Daughter In Law,18/06/1984,19/04/2007,MBA,O+,Home Maker,,,,,user
+M160605,M1606,Maniyar Vindya Harihar,,"Vishnu-Padma', 37, Pannalal Nagar. Nesr Ashtavinayak Temple. Aurangabad. 431003",Grand Daughter,29/11/2012,,,,,,,,,user
+M160606,M1606,Maniyar Tiya Harihar,,"Vishnu-Padma', 37, Pannalal Nagar. Nesr Ashtavinayak Temple. Aurangabad. 431003",Grand Daughter,30/11/2018,,,,,,,,,user
+M170501,M1705,Mantri Anshul,9823022294,"Kaveri - 3, Zambed Estate, New Shrey Nagar, Near Mahakaleshwar Mandir, Aurangabad 431005",Family Head,12/15/1983,11/18/2010,MBA,B+,Operation Manager - Dmart,,,,,user
+M170502,M1705,Mantri Shaarda,9823122294,"Kaveri - 3, Zambed Estate, New Shrey Nagar, Near Mahakaleshwar Mandir, Aurangabad 431005",Mother,12/2/1958,12/11/1982,BCOM,,Rose Beauty Parlour And Training Institute,,,,,user
+M170503,M1705,Mantri Puja Anshul,9823222294,"Kaveri - 3, Zambed Estate, New Shrey Nagar, Near Mahakaleshwar Mandir, Aurangabad 431005",Wife,10/6/1987,11/18/2010,"MCom, DTL",,,,,,,user
+M170504,M1705,Mantri Aarav Anshul,,"Kaveri - 3, Zambed Estate, New Shrey Nagar, Near Mahakaleshwar Mandir, Aurangabad 431005",Son,2/15/2014,,,,,,,,,user
+M170505,M1705,Mantri Shivansh Anshul,,"Kaveri - 3, Zambed Estate, New Shrey Nagar, Near Mahakaleshwar Mandir, Aurangabad 431005",Son,3/3/2019,,,,,,,,,user
+M180401,M1804,Mantri Gopal,9423732408,"Plot72, Rani Appt ,Shreya Nagar,Usmanpura",Family Head,28/09/1974,6/5/1998,12th pass,A+,Textile Agency,,,,,user
+M180402,M1804,Mantri Anuradha Gopal,9421345872,"Plot72, Rani Appt ,Shreya Nagar,Usmanpura",Wife,20/12/1976,6/5/1998,BA,AB+,Housewife,,,,,user
+M180403,M1804,Mantri Jyoti Gopal,8668438594,"Plot72, Rani Appt ,Shreya Nagar,Usmanpura",Daughter,8/2/1999,,Architecture,AB+,,,,,,user
+M180404,M1804,Mantri Khushi Gopal,,"Plot72, Rani Appt ,Shreya Nagar,Usmanpura",Daughter,6/9/2003,,Still studying,A+,,,,,,user
+M190501,M1905,Mantri Laxmikant,9422215691,"Flat No A-11, 5Th Floor, Kalyani Gurumukh Heights, Behind Ssc Board, Osmanpura, Aurangabad- 431005",Family Head,5/12/1965,6/5/1989,Ssc,A+,"Cloth Commission Agent, Mantri Textile Agency, Flat No A-11, 5Th Floor, Kalyani Gurumukh Heights, Behind Ssc Board, Osmanpura, Aurangabad- 431005",,,,,user
+M190502,M1905,Mantri Laxmikant Mukundas,9422215691,"Flat No A-11, 5Th Floor, Kalyani Gurumukh Heights, Behind Ssc Board, Osmanpura, Aurangabad- 431005",Self,5/12/1965,6/5/1989,SSC,A+,"Cloth Commission Agent, Mantri Textile Agency, Flat No A-11, 5Th Floor, Kalyani Gurumukh Heights, Behind Ssc Board, Osmanpura, Aurangabad- 431005",,,,,user
+M190503,M1905,Mantri Vidhya Laxmikant,9420221613,"Flat No A-11, 5Th Floor, Kalyani Gurumukh Heights, Behind Ssc Board, Osmanpura, Aurangabad- 431005",Wife,12/10/1967,6/5/1989,SSC,A+,,,,,,user
+M190504,M1905,Mantri Sagar Laxmikant,9422765313,"Flat No A-11, 5Th Floor, Kalyani Gurumukh Heights, Behind Ssc Board, Osmanpura, Aurangabad- 431005",Son,25/08/1990,13/12/2018,CA Final,A+,Professor,,,,,user
+M190505,M1905,Mantri Gangotri,9502745441,"Flat No A-11, 5Th Floor, Kalyani Gurumukh Heights, Behind Ssc Board, Osmanpura, Aurangabad- 431005",Daughter In Law,29/05/1992,13/12/2018,"CA Final, CS Final",B+,,,,,,user
+M200501,M2005,Mantri Naresh,9923382233,"Nr. Pawan Gas , Osmanpura Aurangabad",Family Head,23/06/2019,29/04/2020,B com,B+,"Ganga Papers , Whole Sale Printing Paper",,,,,user
+M200502,M2005,Mantri Savitri Laxminarayan,9767822233,"Nr. Pawan Gas , Osmanpura Aurangabad",Mother,21/10/2020,8/3/2020,,,,,,,,user
+M200503,M2005,Mantri ,,"Nr. Pawan Gas , Osmanpura Aurangabad",,,,,,,,,,,user
+M200504,M2005,Mantri ,,"Nr. Pawan Gas , Osmanpura Aurangabad",,,,,,,,,,,user
+M200505,M2005,Mantri ,,"Nr. Pawan Gas , Osmanpura Aurangabad",,,,,,,,,,,user
+M210601,M2106,Mantri Omprakash,9834132741,"Plot No.2, Flat No.3, Shubh Labh Regency, Ranjit Nagar, Near Kalda Corner, Aurangabad- 431001.",Family Head,6/10/1962,11/22/1981,B Com,B+,Wholesale Cloth Commission Agent,,,,,user
+M210602,M2106,Mantri Premlata Omprakash,7666390356,"Plot No.2, Flat No.3, Shubh Labh Regency, Ranjit Nagar, Near Kalda Corner, Aurangabad- 431001.",Wife,5/25/1966,11/22/1981,,,,,,,,user
+M210603,M2106,Mantri Amit Omprakash,9422288757,"Plot No.2, Flat No.3, Shubh Labh Regency, Ranjit Nagar, Near Kalda Corner, Aurangabad- 431001.",Son,10/31/1982,6/17/2009,Chartered Accountant,B+,Practicing Chartered Accountant,,,,,user
+M210604,M2106,Mantri Puja Amit,7620759335,"Plot No.2, Flat No.3, Shubh Labh Regency, Ranjit Nagar, Near Kalda Corner, Aurangabad- 431001.",Daughter In Law,10/26/1986,6/17/2009,MBA Finance,O+,,,,,,user
+M210605,M2106,Mantri Kshitij Amit,,"Plot No.2, Flat No.3, Shubh Labh Regency, Ranjit Nagar, Near Kalda Corner, Aurangabad- 431001.",Grandson,5/24/2012,,,,,,,,,user
+M210606,M2106,Mantri Kanak Amit,,"Plot No.2, Flat No.3, Shubh Labh Regency, Ranjit Nagar, Near Kalda Corner, Aurangabad- 431001.",Granddaughter,4/2/2016,,,,,,,,,user
+M220901,M2209,Mantri Premraj,9890056561,"Plot No.91
+Shreynagar,
+Aurangabad 431005",Family Head,11/3/1947,5/6/1971,SSC,A+,"Prem Constructions
+Opp.Pawan Ganesh Mandir,
+Narli Bagh,
+Aurangabad 431001",,,,,user
+M220902,M2209,Mantri Shobha Premraj,7588819869,"Plot No.91
+Shreynagar,
+Aurangabad 431005",Wife,3/7/1953,5/6/1971,SSC,O+,,,,,,user
+M220903,M2209,Mantri Ajay Premraj,9673111144,"Plot No.91
+Shreynagar,
+Aurangabad 431005",Son,26/03/1973,1/30/1996,B Com,O+,"Sajawat Handlooms
+Nirala Bazar
+Aurangabad. 431001
+
+2340340. , 2338806",,,,,user
+M220904,M2209,Mantri Anita Ajay,9403911110,"Plot No.91
+Shreynagar,
+Aurangabad 431005",Daughter In Law,2/5/1975,30/01/1996,SSC,B+,,,,,,user
+M220905,M2209,Mantri Sanjay Premraj,9890163369,"Plot No.91
+Shreynagar,
+Aurangabad 431005",Son,29/12/1974,26/02/2000,"M Com , DTL",A+,"Sajawat Handlooms
+Nirala Bazar
+Aurangabad. 431001
+
+2340340. , 2338806",,,,,user
+M220906,M2209,Mantri Varsha Sanjay,9420240011,"Plot No.91
+Shreynagar,
+Aurangabad 431005",Daughter In Law,16/04/1978,26/02/2000,BSC,B+,,,,,,user
+M220907,M2209,Mantri Kunal Ajay,9673811118,"Plot No.91
+Shreynagar,
+Aurangabad 431005",Grandson,24/11/1996,,"BBA , MSc",B+,"Hotel Krishna Inn
+Mill Corner Road
+Khadkeshwar
+Aurangabad 431001
+
+2349340",,,,,user
+M220908,M2209,Mantri Krishna Ajay,8208920418,"Plot No.91
+Shreynagar,
+Aurangabad 431005",Grandson,23/12/2000,,C.A. Persuing,O+,,,,,,user
+M220909,M2209,Mantri Ira Sanjay,,"Plot No.91
+Shreynagar,
+Aurangabad 431005",Granddaughter,28/09/2013,,1st,AB+,,,,,,user
+M230601,M2306,Mantri Bhagwandas,9403202134,Plot No 120 Tilak Nagar Near Roplekar Hospital Aurangabad,Family Head,4/1/1952,2/17/1973,,B+,*,,,,,user
+M230602,M2306,Mantri Kaveribai Bhagwandas,8275452746,Plot No 120 Tilak Nagar Near Roplekar Hospital Aurangabad,Wife,5/5/1952,2/17/1973,,B+,,,,,,user
+M230603,M2306,Mantri Purushottam Bhagwandas,9370361333,Plot No 120 Tilak Nagar Near Roplekar Hospital Aurangabad,Son,6/11/1980,2/14/2005,D PHARM,AB-,"Mantri Medicines, Mahesh Nagar",,,,,user
+M230604,M2306,Mantri Rupali Purushottam,9370061333,Plot No 120 Tilak Nagar Near Roplekar Hospital Aurangabad,Daughter In Law,6/17/1981,2/14/2005,,B+,Mantri Medicals Chetna Nagar,,,,,user
+M230605,M2306,Mantri Sachi Purushottam,,Plot No 120 Tilak Nagar Near Roplekar Hospital Aurangabad,Grand Daughter,9/13/2006,,8TH,B+,,,,,,user
+M230606,M2306,Mantri Surbhi Purushottam,,Plot No 120 Tilak Nagar Near Roplekar Hospital Aurangabad,Garnd Daughter,12/18/2012,,2 ND,B+,,,,,,user
+M240301,M2403,Mantri Ramvijay,9421062100,"Flat No 01, Tatasthu Apparment, Sanjay Housing Society, Osmanpura",Family Head,10/28/1983,6/29/2012,CA,B+,"Mantri Ans Associates, Sidharth Arcade Shop No 25 Station Road Aurangabad",,,,,user
+M240302,M2403,Mantri Puja,8275711227,"Flat No 01, Tatasthu Apparment, Sanjay Housing Society, Osmanpura",Wife,6/24/1986,6/29/2012,MBA,O+,House Wife,,,,,user
+M240303,M2403,Mantri Ramrachit,8482827768,"Flat No 01, Tatasthu Apparment, Sanjay Housing Society, Osmanpura",Son,11/27/2017,,,B+,,,,,,user
+M250301,M2503,Modani Ketan,9766235775,"Dhruv Res. Plot No.12,Flat No.5,Near Om Pratamik School,New Shreya Nagar Osmanpura Aurangabad Maharashtra.",Family Head,25/02/1987,,B.Com,A+,"Ramraj Corporation Off. No. 8, Above Laxmi Auto Agency,Mahesh Nagar,Jalna Road, Aurangabad.",,,,,user
+M250302,M2503,Modani Govindprasad Bansilalji,9370650567,"Dhruv Res. Plot No.12,Flat No.5,Near Om Pratamik School,New Shreya Nagar Osmanpura Aurangabad Maharashtra.",Father,1/1/1951,,,A+,Retire,,,,,user
+M250303,M2503,Modani Vijaya Devi Govindprasad,9421976731,"Dhruv Res. Plot No.12,Flat No.5,Near Om Pratamik School,New Shreya Nagar Osmanpura Aurangabad Maharashtra.",Mother,25/08/1951,,,A+,House Wife,,,,,user
+M260301,M2603,Mundada Amar,9405585858,"Flat No 3, Jabinda Prime, Behind Osmanpura Gurudwara, Osmanpura Aurangabad",Family Head,2/16/1984,4/21/2014,MBA,O+,"Tapadia Diagnostic Centre, Bansilal Nagar, Station Road, Aurangabad.",,,,,user
+M260302,M2603,Mundada Mamta Amar,9226585858,"Flat No 3, Jabinda Prime, Behind Osmanpura Gurudwara, Osmanpura Aurangabad",Wife,12/21/1987,1/21/2014,"B'com, Diploma in Taxation Law",A+,Tapadia Diagnostic Centre,,,,,user
+M260303,M2603,Mundada Ranak Amar,,"Flat No 3, Jabinda Prime, Behind Osmanpura Gurudwara, Osmanpura Aurangabad",Son,12/15/2015,,Junior KG,O+,,,,,,user
+M270501,M2705,Mundada Deepak,9890400294,"Flat No. 1, Jabinda Prime, Behind Guru Dwara,Osmanpura",Family Head,1/20/1960,6/25/1983,,O+,"Family Orthodontic And Dental Clinic, Jeevanpushp Apartment, Dargah Road, Shahanurwadi-431005. 7218787191",,,,,user
+M270502,M2705,Mundada Shobha Deepak,9890400294,"Flat No. 1, Jabinda Prime, Behind Guru Dwara,Osmanpura",Wife,4/17/1960,6/25/1983,,O+,,,,,,user
+M270503,M2705,Mundada Ram Deepak,9890400294,"Flat No. 1, Jabinda Prime, Behind Guru Dwara,Osmanpura",Son,8/27/1984,1/19/2013,Doctor,O+,"Family Orthodontic And Dental Clinic, Jeevanpushp Apartment, Dargah Road, Shahanurwadi, 7218787191",,,,,user
+M270504,M2705,Mundada Trupti Ram,8793333901,"Flat No. 1, Jabinda Prime, Behind Guru Dwara,Osmanpura",Daughter In Law,11/14/1988,1/19/2013,Doctor,B+,"Family Orthodontic And Dental Clinic, Jeevanpushp Apartment, Dargah Road, Shahanurwadi. 7218787191",,,,,user
+M270505,M2705,Mundada Ojas Ram,9890400294,"Flat No. 1, Jabinda Prime, Behind Guru Dwara,Osmanpura",Grandson,11/6/2017,,,,,,,,,user
+M280301,M2803,Mundada Nandlal,9421866699,Plot No 11 New Shrey Nagar,Family Head,1/1/1946,13/12/1977,10th,O+,"Mahavir Trading Co.
+Jadhav Wadi, Aurangabad",,,,,user
+M280302,M2803,Mundada Pawan Nandlalji,9763729908,Plot No 11 New Shrey Nagar,Son,28/07/1985,,CMA Final Appear,O+,"Ipca Laboratories Limited
+H-4 Midc Waluj Aurangabad",,,,,user
+M280303,M2803,Mundada Kaushalya Nandlalji,9921590221,Plot No 11 New Shrey Nagar,Wife,3/3/1956,13/12/1977,4th,O+,,,,,,user
+M291101,M2911,Mundada Radheshyam,9225322121,Rh No.8 Mangal Kalash Housing Society Zambed Estate New Shray Nagar Aurangabad,Family Head,9/16/1985,7/24/2011,Mcom,O+,Dinesh Woods Furniture Industries,,,,,user
+M291102,M2911,Mundada Amol Radheshyam,9225322121,Rh No.8 Mangal Kalash Housing Society Zambed Estate New Shray Nagar Aurangabad,Son,9/16/1985,7/24/2011,M com,O+,Dinesh Woods Furniture Mall Add.Kachaner Fata Beed Highway,,,,,user
+M291103,M2911,Mundada Alka Radheshyam,,Rh No.8 Mangal Kalash Housing Society Zambed Estate New Shray Nagar Aurangabad,Wife,7/1/1960,12/2/1984,,,,,,,,user
+M291104,M2911,Mundada Sheetal Amol,9270833333,Rh No.8 Mangal Kalash Housing Society Zambed Estate New Shray Nagar Aurangabad,Daughter In Law,5/18/1988,7/24/2011,M com,O+,,,,,,user
+M291105,M2911,Mundada Gopal Radheshyam,9270581001,Rh No.8 Mangal Kalash Housing Society Zambed Estate New Shray Nagar Aurangabad,Son,1/6/1989,5/8/2014,MBA,AB+,Gopal Hardware,,,,,user
+M291106,M2911,Mundada Rani Gopal,8446581001,Rh No.8 Mangal Kalash Housing Society Zambed Estate New Shray Nagar Aurangabad,Daughter In Law,7/5/1992,5/8/2014,B com,B+,,,,,,user
+M291107,M2911,Mundada Akshara Amol,9225322121,Rh No.8 Mangal Kalash Housing Society Zambed Estate New Shray Nagar Aurangabad,Grand Daughter,10/14/2013,,Sr Kg,,,,,,,user
+M291108,M2911,Mundada Dhanshree Amol,,Rh No.8 Mangal Kalash Housing Society Zambed Estate New Shray Nagar Aurangabad,Grand Daughter,10/18/2016,,Play group,,,,,,,user
+M291109,M2911,Mundada Rupashree Amol,9270833333,Rh No.8 Mangal Kalash Housing Society Zambed Estate New Shray Nagar Aurangabad,Grand Daughter,9/15/2018,,,,,,,,,user
+M291110,M2911,Mundada Aayushi Gopal,,Rh No.8 Mangal Kalash Housing Society Zambed Estate New Shray Nagar Aurangabad,Grand Daughter,7/24/2015,,Jr kg,,,,,,,user
+M291111,M2911,Mundada Raghav Gopal,,Rh No.8 Mangal Kalash Housing Society Zambed Estate New Shray Nagar Aurangabad,Grandson,4/25/2019,,,,,,,,,user
+M301001,M3010,Mundada Ramesh,9850162905,"Kishor Kunj, 19, New Shreya Nagar , New Osmanpura, Aurangabad",Family Head,2/5/1948,2/27/1971,B.Sc,B+,Retired,,,,,user
+M301002,M3010,Mundada Kanta Ramesh,8275861793,"Kishor Kunj, 19, New Shreya Nagar , New Osmanpura, Aurangabad",Wife,12/14/1950,2/27/1971,SSC,B+,Home Maker,,,,,user
+M301003,M3010,Mundada Sanjay Ramesh,9822114560,"Kishor Kunj, 19, New Shreya Nagar , New Osmanpura, Aurangabad",Son,5/18/1972,12/6/1994,"B.E.(mesch), M.B.A.(Fin.)",B+,Business,,,,,user
+M301004,M3010,Mundada Rekha Sanjay,9767474631,"Kishor Kunj, 19, New Shreya Nagar , New Osmanpura, Aurangabad",Daughter In Law,2/5/1974,12/6/1994,B.Com,B+,Home Maker,,,,,user
+M301005,M3010,Mundada Sachin Ramesh,9008778888,"Kishor Kunj, 19, New Shreya Nagar , New Osmanpura, Aurangabad",Son,7/19/1974,5/6/1999,M.pharm,B+,Service,,,,,user
+M301006,M3010,Mundada Archana Sachin,9945035453,"Kishor Kunj, 19, New Shreya Nagar , New Osmanpura, Aurangabad",Daughter In Law,2/17/1975,5/6/1999,BCS,B+,Home Maker,,,,,user
+M301007,M3010,Mundada Netal Sanjay,8407904780,"Kishor Kunj, 19, New Shreya Nagar , New Osmanpura, Aurangabad",Grand Daughter,8/16/1996,,Student,B+,,,,,,user
+M301008,M3010,Mundada Nipun Sanjay,9511660966,"Kishor Kunj, 19, New Shreya Nagar , New Osmanpura, Aurangabad",Grandson,6/16/2000,,Student,O+,,,,,,user
+M301009,M3010,Mundada Aditi Sachin,9731328702,"Kishor Kunj, 19, New Shreya Nagar , New Osmanpura, Aurangabad",Grand Daughter,12/6/2000,,Student,B+,,,,,,user
+M301010,M3010,Mundada Arpit Sachin,,"Kishor Kunj, 19, New Shreya Nagar , New Osmanpura, Aurangabad",Grandson,4/24/2005,,Student,B+,,,,,,user
+M310501,M3105,Mundada Sujeet,9890029146,"Flat Number 2, Sai Krupa Residency Behind Sant Eknath Rang Mandir, New Osmanpura ,Aurangabad",Family Head,9/11/1971,3/12/1995,BE chemical,O+,Rama Krishna Data Forms F 64 Near Zambad Gas Corner Midc Waluj,,,,,user
+M310502,M3105,Mundada Nimisha Sujeet,9766593898,"Flat Number 2, Sai Krupa Residency Behind Sant Eknath Rang Mandir, New Osmanpura ,Aurangabad",Wife,15/05/1974,3/12/1995,B com,O+,Home Maker,,,,,user
+M310503,M3105,Mundada Keshav Sujeet,9767188045,"Flat Number 2, Sai Krupa Residency Behind Sant Eknath Rang Mandir, New Osmanpura ,Aurangabad",Son,2/6/1997,,Pursuing MBA,O+,,,,,,user
+M310504,M3105,Mundada Raghav Sujeet,7083693577,"Flat Number 2, Sai Krupa Residency Behind Sant Eknath Rang Mandir, New Osmanpura ,Aurangabad",Son,7/11/2000,,BE metallurgy first year,O+,,,,,,user
+M310505,M3105,Mundada Pranav Sujeet,7666027146,"Flat Number 2, Sai Krupa Residency Behind Sant Eknath Rang Mandir, New Osmanpura ,Aurangabad",Son,7/11/2000,,pursuing IPCC,O+,,,,,,user
+N010301,N0103,Nagori Rajendra,9422209937,"Flat No B2, Shrushti Vihar, Zambad Estate, Shreya Nagar, Aurangabad 431005",Family Head,1/25/1967,5/9/1993,"B.Pharm, DCA",O+,"Infill Life Sciences, Pharmaceutical Consulting, E138 Golden City Centre Near Prozone Mall Aurangabad",,,,,user
+N010302,N0103,Nagori Uma Rajendra,9423781947,"Flat No B2, Shrushti Vihar, Zambad Estate, Shreya Nagar, Aurangabad 431005",Wife,3/5/1973,5/9/1993,"BSc., D.Pharm",B+,"Bharat Medical And Departmental Store, Medical Store, Bhagwandas Verma Chowk Shreyanagar Aurangabad",,,,,user
+N010303,N0103,Nagori Vikas Rajendra,8975756788,"Flat No B2, Shrushti Vihar, Zambad Estate, Shreya Nagar, Aurangabad 431005",Son,6/24/1996,,"BE, MBA",B+,,,,,,user
+N020401,N0204,Navandar Shailesh,9422709669,"Flat No .4
+Sumangal Park
+Behind Idbi Bank
+Osmanpura",Family Head,1/3/1978,7/8/2003,M.com,O+,"Shailesh Distributiors
+Opp.Hanuman Mandir
+Ajab Nagar
+Nutan Colony
+Aurangabad",,,,,user
+N020402,N0204,Navandar Sapna Shailesh,9420400445,"Flat No .4
+Sumangal Park
+Behind Idbi Bank
+Osmanpura",Wife,6/11/1980,7/8/2003,M.COM,AB-,,,,,,user
+N020403,N0204,Navandar Suhani Shailesh,,"Flat No .4
+Sumangal Park
+Behind Idbi Bank
+Osmanpura",Daughter,6/12/2004,,11TH,A+,,,,,,user
+N020404,N0204,Navandar Sharyu Shailesh,,"Flat No .4
+Sumangal Park
+Behind Idbi Bank
+Osmanpura",Daughter,1/6/2007,,8th,A+,,,,,,user
+N030601,N0306,Navander Rajendra,9822880303,"Plot No. 3, Jijamata Colony, Paithan Gate,
+Aurangabad,",Family Head,5/10/1960,9/5/1984,DOCTOR,B+,"Shop No. 1-B, Kalash Heights,
+Nutan Colony,",,,,,user
+N030602,N0306,Navander Narmada Rajendra,,"Plot No. 3, Jijamata Colony, Paithan Gate,
+Aurangabad,",Wife,18/12/1961,9/5/1984,B. COM,O+,"Lic And Post Agency, Shop No. 1-B, Kalash Heights,
+Nutan Colony,",,,,,user
+N030603,N0306,Navander Manoj Rajendra,9822880303,"Plot No. 3, Jijamata Colony, Paithan Gate,
+Aurangabad,",Son,15/02/1986,28/01/2012,C. A. FINAL,O+,"Tax Consultants And Builder And Developers, Shop No. 1-B, Kalash Heights,
+Nutan Colony,",,,,,user
+N030604,N0306,Navander Gitanjali Manoj,,"Plot No. 3, Jijamata Colony, Paithan Gate,
+Aurangabad,",Daughter In Law,9/6/1987,28/01/2012,M. SC BIOINFORMATICS,A+,"Distributorship Of Baby Products, Shop No. 1-B, Kalash Heights,
+Nutan Colony,",,,,,user
+N030605,N0306,Navander Viren Manoj,,"Plot No. 3, Jijamata Colony, Paithan Gate,
+Aurangabad,",Grandson,23/01/2013,,Ist,O+,,,,,,user
+N030606,N0306,Navander Reyansh Manoj,,"Plot No. 3, Jijamata Colony, Paithan Gate,
+Aurangabad,",Grandson,13/10/2017,,PLAYGROUP,O+,,,,,,user
+N040801,N0408,Nyati Sanjay,7588651011,Plot.No 5/5/28/1Nyati Chamber Osmanpura Aurangabad,Family Head,6/5/1964,19/04/2020,10,A+,Kalyani Girls Hostel Osmanpura Aurangabad,,,,,user
+N040802,N0408,Nyati Manish Raghunath,9370246454,Plot.No 5/5/28/1Nyati Chamber Osmanpura Aurangabad,Brother,8/9/1969,17/12/1999,Dhms,A+,Ratan Food Products Osmanpura Aurangabad,,,,,user
+N040803,N0408,Nyati Rachana Manish,7276282875,Plot.No 5/5/28/1Nyati Chamber Osmanpura Aurangabad,Brother'S Wife,17/01/1974,17/12/1999,B.com,O+,Nyati Enterprise Osmanpura Aurangabad,,,,,user
+N040804,N0408,Nyati Kalyani Manish,9422704742,Plot.No 5/5/28/1Nyati Chamber Osmanpura Aurangabad,Niece,5/7/2002,,Student,,,,,,,user
+N040805,N0408,Nyati Kaushal Manish,,Plot.No 5/5/28/1Nyati Chamber Osmanpura Aurangabad,Nephew,20/12/2008,,6th std,A+,,,,,,user
+N040806,N0408,Nyati Girish Raghunath,9028643254,Plot.No 5/5/28/1Nyati Chamber Osmanpura Aurangabad,Brother,14/09/1971,19/11/2005,12th,A+,Bamboos Fast Food,,,,,user
+N040807,N0408,Nyati Archana,9623242050,Plot.No 5/5/28/1Nyati Chamber Osmanpura Aurangabad,Brother'S Wife,16/03/1983,19/11/2005,M.E.,B+,Lecturer (Csmss) Pathian Road,,,,,user
+N040808,N0408,Nyati Kaustubh Girish,,Plot.No 5/5/28/1Nyati Chamber Osmanpura Aurangabad,Nephew,8/2/2007,,8 th std,AB+,,,,,,user
+R010201,R0102,Rathi Ashok Kumar,9975547470,"9-A, Nupur Villa, Bijli Nagar, Osmanpura, Aurangabad",Family Head,8/26/1966,6/19/1991,Chartered Accountant,A+,Practising Chartered Account Ants,,,,,user
+R010202,R0102,Rathi Madhubala,9325213070,"9-A, Nupur Villa, Bijli Nagar, Osmanpura, Aurangabad",Wife,4/9/1967,6/19/1991,M. Com,O+,,,,,,user
+R020701,R0207,Rathi Jamnalal,9373334456,"5-5-69
+Near Citi Care Hospital
+Opp. Kalash Mangal Karyalaya
+New Osmanpura
+Aurangabad-431001",Family Head,10/3/1948,,,B+,Share Trading,,,,,user
+R020702,R0207,Rathi Jayesh Jamnalal,,"5-5-69
+Near Citi Care Hospital
+Opp. Kalash Mangal Karyalaya
+New Osmanpura
+Aurangabad-431001",Son,24/02/1984,,,,,,,,,user
+R020703,R0207,Rathi ,,"5-5-69
+Near Citi Care Hospital
+Opp. Kalash Mangal Karyalaya
+New Osmanpura
+Aurangabad-431001",,,,,,,,,,,user
+R020704,R0207,Rathi ,,"5-5-69
+Near Citi Care Hospital
+Opp. Kalash Mangal Karyalaya
+New Osmanpura
+Aurangabad-431001",,,,,,,,,,,user
+R020705,R0207,Rathi ,,"5-5-69
+Near Citi Care Hospital
+Opp. Kalash Mangal Karyalaya
+New Osmanpura
+Aurangabad-431001",,,,,,,,,,,user
+R020706,R0207,Rathi ,,"5-5-69
+Near Citi Care Hospital
+Opp. Kalash Mangal Karyalaya
+New Osmanpura
+Aurangabad-431001",,,,,,,,,,,user
+R020707,R0207,Rathi ,,"5-5-69
+Near Citi Care Hospital
+Opp. Kalash Mangal Karyalaya
+New Osmanpura
+Aurangabad-431001",,,,,,,,,,,user
+R030301,R0303,Rathi Kachrulal,9923000031,"Swapnapurti, Plot No. 1, Gulmohar Lane, Beside Success Residency, New Shreyanagar, Aurangabad",Family Head,4/3/1935,,Tenth,Not Checked Yet,Retired,,,,,user
+R030302,R0303,Rathi Laxmibai Kachrulal,,"Swapnapurti, Plot No. 1, Gulmohar Lane, Beside Success Residency, New Shreyanagar, Aurangabad",Wife,15/05/1945,,,,Housewife,,,,,user
+R030303,R0303,Rathi Sarujubai Ramnath,,"Swapnapurti, Plot No. 1, Gulmohar Lane, Beside Success Residency, New Shreyanagar, Aurangabad",Sister In Law,20/05/1933,,,,,,,,,user
+R040501,R0405,Rathi Mahesh,7798200333,"Flat No. 2 L, Jabinda Prime Society, Near Osmanpura Gurudwara, Aurangabad",Family Head,12/6/1989,22/02/2014,Engineer,O+,"Warner Electronics India Pvt Ltd., (Cctv Manufacturer)",,,,,user
+R040502,R0405,Rathi Swati Mahesh,7588400252,"Flat No. 2 L, Jabinda Prime Society, Near Osmanpura Gurudwara, Aurangabad",Wife,13/07/1991,,,,,,,,,user
+R040503,R0405,Rathi Viaan Mahesh,,"Flat No. 2 L, Jabinda Prime Society, Near Osmanpura Gurudwara, Aurangabad",Son,20/09/2019,,,O+,,,,,,user
+R040504,R0405,Rathi ,,"Flat No. 2 L, Jabinda Prime Society, Near Osmanpura Gurudwara, Aurangabad",,,,,,,,,,,user
+R040505,R0405,Rathi ,,"Flat No. 2 L, Jabinda Prime Society, Near Osmanpura Gurudwara, Aurangabad",,,,,,,,,,,user
+R050501,R0505,Rathi Sachin,8275321972,"Kailash_Kunj, New Osmanpura, Station Road, Aurangabad",Family Head,5/10/1972,28/02/2002,"CHARTERED ACCOUNTANT, GRAD CMA, DISA (ICAI)",B+,Chartered Accountants. Address Same As Above,,,,,user
+R050502,R0505,Rathi Madanlal Srikishan,9421402110,"Kailash_Kunj, New Osmanpura, Station Road, Aurangabad",Father,20/08/1939,,CHARTERED ACCOUNTANT,,Chartered Accountants,,,,,user
+R050503,R0505,Rathi Leena Sachin,9271810744,"Kailash_Kunj, New Osmanpura, Station Road, Aurangabad",Wife,17/06/1974,28/02/2002,B.com,O+,,,,,,user
+R050504,R0505,Rathi ,,"Kailash_Kunj, New Osmanpura, Station Road, Aurangabad",,,,,,,,,,,user
+R050505,R0505,Rathi ,,"Kailash_Kunj, New Osmanpura, Station Road, Aurangabad",,,,,,,,,,,user
+R060401,R0604,Rathi Subodh,9145023545,H-5 Chetna Nager Nr Kalda Corner Aurangabad,Family Head,18/07/1970,7/7/1999,Bcom,B+,Sar Interior,,,,,user
+R060402,R0604,Rathi Pratiksha Subodh,,H-5 Chetna Nager Nr Kalda Corner Aurangabad,Wife,7/6/1975,7/7/1999,BA,B+,House Wife,,,,,user
+R060403,R0604,Rathi Sakshi Subodh,,H-5 Chetna Nager Nr Kalda Corner Aurangabad,Daughter,26/05/2000,,BBA,B+,Student,,,,,user
+R060404,R0604,Rathi Aditya Subodh,,H-5 Chetna Nager Nr Kalda Corner Aurangabad,Son,15/09/2003,,11th,B+,Student,,,,,user
+S010401,S0104,Sabu Dwarkadas,9422211444,"12, 'Matoshri', Mangal-Kalash Society,
+Zambad Estate, New Shreynagar
+Aurangabad.",Family Head,10/14/1966,11/30/1989,B.Com. DBM,B-,"Ankita Associates
+Civil Contractor & Property Dealer
+Zambad Estate
+Aurangabad
+0240 2350119",,,,,user
+S010402,S0104,Sabu Kavita Dwarkadas,9325279079,"12, 'Matoshri', Mangal-Kalash Society,
+Zambad Estate, New Shreynagar
+Aurangabad.",Wife,3/3/1968,30/11/1989,B.A.,B+,,,,,,user
+S010403,S0104,Sabu Anuja Dwarkadas,7276611444,"12, 'Matoshri', Mangal-Kalash Society,
+Zambad Estate, New Shreynagar
+Aurangabad.",Daughter,4/2/1995,,M.Com. C.A Final (Persuing),,,,,,,user
+S010404,S0104,Sabu Devansh Dwarkadas,7588111444,"12, 'Matoshri', Mangal-Kalash Society,
+Zambad Estate, New Shreynagar
+Aurangabad.",Son,15/05/2004,,11th,,,,,,,user
+S020801,S0208,Sabu Radhesham Sabu,9423148493,"B4 Mangaldham Swarsangam Housing Society, Shreynagar, Aurangabad 431001",Family Head,11/8/1948,9/3/1970,Hsc,B-,Broker,,,,,user
+S020802,S0208,Sabu Bharati Radhesham,9423177818,"B4 Mangaldham Swarsangam Housing Society, Shreynagar, Aurangabad 431001",Wife,12/12/1952,9/3/1970,Hsc,,Housewife,,,,,user
+S020803,S0208,Sabu Nilesh Radhesham,9422202339,"B4 Mangaldham Swarsangam Housing Society, Shreynagar, Aurangabad 431001",Son,5/5/1976,28/02/2005,B. Arch.,AB+,"Drushtikon Design, Architecture, Back Side Of Pakija Raswanti, Dargah Road, Aurangabad",,,,,user
+S020804,S0208,Sabu Dr. Rashmi Nilesh,9423176787,"B4 Mangaldham Swarsangam Housing Society, Shreynagar, Aurangabad 431001",Daughter In Law,30/06/1978,28/02/2005,MD homi,O+,"Doctor, Near More Store, Dargah Road, Aurangabad",,,,,user
+S020805,S0208,Sabu Dinesh Radhesham,9850150520,"B4 Mangaldham Swarsangam Housing Society, Shreynagar, Aurangabad 431001",Son,15/05/1980,13/02/2016,Hsc,O+,"Steel Trading, Jalna",,,,,user
+S020806,S0208,Sabu Parmesh Nilesh,,"B4 Mangaldham Swarsangam Housing Society, Shreynagar, Aurangabad 431001",Grandson,8/4/2009,,LKG,B+,,,,,,user
+S020807,S0208,Sabu Parth Nilesh,,"B4 Mangaldham Swarsangam Housing Society, Shreynagar, Aurangabad 431001",Grandson,8/6/2011,,,O+,,,,,,user
+S020808,S0208,Sabu Dipali Dinesh,9923938268,"B4 Mangaldham Swarsangam Housing Society, Shreynagar, Aurangabad 431001",Daughter In Law,16/03/1980,13/02/2016,,B+,Housewife,,,,,user
+S030601,S0306,Sabu Rameshwar,9021903030,"Flat No.6, Plot No.2, Yashodham Apartment, Pannalal Nagar, Osmanpura, Aurangabad",Family Head,1/17/1962,5/7/1985,B.Com.,AB+,"Sarathi Enterprises
+Cnf And Superstockist Of Fmcg Products For Marathwada
+Flat No.6, Plot No.2, Yashodham Apartment, Pannalal Nagar, Osmanpura, Aurangabad.",,,,,user
+S030602,S0306,Sabu Aruna Rameshwar,9421662237,"Flat No.6, Plot No.2, Yashodham Apartment, Pannalal Nagar, Osmanpura, Aurangabad",Wife,3/21/1963,5/7/1985,B.Com.,A-,Homemaker,,,,,user
+S030603,S0306,Sabu Sumeet Rameshwar,9595494969,"Flat No.6, Plot No.2, Yashodham Apartment, Pannalal Nagar, Osmanpura, Aurangabad",Son,4/3/1988,5/24/2014,"CA, CS, B.Com.",A+,"Sumeet Sabu & Assocaites, Chartered Accountants",,,,,user
+S030604,S0306,Sabu Priyanka Sumit,9730650118,"Flat No.6, Plot No.2, Yashodham Apartment, Pannalal Nagar, Osmanpura, Aurangabad",Daughter In Law,10/13/1988,5/24/2014,M.Com.,B-,"Catalyst Professional Academy
+Academy For Commerce, Ca & Cs Education
+Above Royal Enfield, Raja Bansilal Market, Railway Station Road, Bansilal Nagar, Aurangabad. Contact: 95 95 25 56 56",,,,,user
+S030605,S0306,Sabu Ameet Rameshwar,9595494960,"Flat No.6, Plot No.2, Yashodham Apartment, Pannalal Nagar, Osmanpura, Aurangabad",Son,1/20/1998,,M.Com.,A+,"Kaamdhenu, Quality Milk In Its Purest Form
+Automated Milk Vending Machine & Bottled Milk With Home Delivery
+Shop No.4, Dwarika Co-Op. Hsg Society, Mahesh Nagar, Apex Hospital Road, Aurangabad
+Contact: 80 13 30 90 90",,,,,user
+S030606,S0306,Sabu Swaraa Sumeet,,"Flat No.6, Plot No.2, Yashodham Apartment, Pannalal Nagar, Osmanpura, Aurangabad",Grand Daughter,12/14/2016,,Nursery,O+,,,,,,user
+S041201,S0412,Samdani Shirish,9860038792,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Family Head,28/12/1954,5/12/1977,CA,A+,"S.A.Samdani And Co. , 4-1-83, Kirti Building, Pandariba, Aurangabad - 431001",,,,,user
+S041202,S0412,Samdani Anil Asaram,9422272430,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Brother,31/12/1956,20/12/1982,B COM,,"Kirti Agencies, 
+Pharmaceutical Distributors,
+New Gulmandi Road , Aurangabad - 431005",,,,,user
+S041203,S0412,Samdani Madhusudan Asaram,9823471149,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Brother,13/07/1960,21/02/1988,D PHARM,,"Kirti Agencies,
+Pharmaceutical Distributors,
+New Gulmandi Road, Aurangabad - 431001",,,,,user
+S041204,S0412,Samdani Surekha Shirish,9403858820,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Wife,2/7/1956,5/12/1977,,O+,House Wife,,,,,user
+S041205,S0412,Samdani Meena Anil,9405108145,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Brother'S Wife,5/4/1963,20/12/1982,,,House Wife,,,,,user
+S041206,S0412,Samdani Sadhna Madhusudan,9373211327,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Brother'S Wife,11/3/1965,21/02/1988,M COM,O+,House Wife,,,,,user
+S041207,S0412,Samdani Deepak Madhusudan,7588443333,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Nephew,11/1/1989,30/05/2015,CA,O+,"D.M.Samdani And Co.
+Chartered Accountants,
+Aurangabad",,,,,user
+S041208,S0412,Samdani Madhuri Deepak,9860703840,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Nephew'S Wife,24/10/1989,30/05/2015,CA,B+,"D.M.Samdani And Co.,
+Chartered Accoutants,
+Aurangabad",,,,,user
+S041209,S0412,Samdani Pooja Madhusudan,8275861818,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Niece,15/10/1991,,BDS,O+,"Practicing With Jambure Dental, Aurangabad",,,,,user
+S041210,S0412,Samdani Mahesh Madhusudan,8600073999,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Nephew,25/03/1995,,MBA (MARKETING),O+,"Kirti Agencies
+Pharmaceutical Distributors
+Aurangabad",,,,,user
+S041211,S0412,Samdani Bharat Anil,8668410913,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Nephew,13/11/1994,,,,,,,,,user
+S041212,S0412,Samdani Saarthak Deepak,7588443333,"Plot No 13, New Shreya Nagar, Kalda Corner, Aurangabad - 431005",Nephew'S Son,27/08/2018,,,,,,,,,user
+S050601,S0506,Sarda Purushottam,9371021949,"Plot No 03,Bijlinagar,Shreyanagar,Aurangabad",Family Head,9/7/1948,19/11/1973,B com,B+,Retired Bank Officer,,,,,user
+S050602,S0506,Sarda Annapurna Purushottam,9665640126,"Plot No 03,Bijlinagar,Shreyanagar,Aurangabad",Wife,17/06/1956,19/11/1973,Ssc,O+,House Wife,,,,,user
+S050603,S0506,Sarda Narayan Purushottam,9970791610,"Plot No 03,Bijlinagar,Shreyanagar,Aurangabad",Son,2/6/1977,20/01/2003,B com,O+,"Kapilkumar And Company 
+Trading In Cattle Feed
+Trading In Real Estate 
+Flat No 04,Vkjona Complex, Darga Road Aurangabad",,,,,user
+S050604,S0506,Sarda Shilpa Narayan,9975787352,"Plot No 03,Bijlinagar,Shreyanagar,Aurangabad",Daughter In Law,4/5/1983,20/01/2003,B com,O+,"Sanchi Ex Silver Jewellery And Gift
+Trading In Gift Bags N Pures",,,,,user
+S050605,S0506,Sarda Kapil Narayan,,"Plot No 03,Bijlinagar,Shreyanagar,Aurangabad",Grandson,12/11/2003,,Studying,,,,,,,user
+S050606,S0506,Sarda Tanmay Narayan,,"Plot No 03,Bijlinagar,Shreyanagar,Aurangabad",Grandson,12/7/2008,,Studying,,,,,,,user
+S060601,S0606,Sarda Radheshyam,9850070020,"A5,Sayali Residency, Shreya Nagar, Aurangabad 431001",Family Head,5/4/1949,15/02/1975,Bcom,AB+,"Hitech Infra, 17, Ayodhya,Ajab Nagar",,,,,user
+S060602,S0606,Sarda Sunanda Radheshyam,8788380201,"A5,Sayali Residency, Shreya Nagar, Aurangabad 431001",Wife,29/06/1955,15/02/1975,10th,B+,,,,,,user
+S060603,S0606,Sarda ,,"A5,Sayali Residency, Shreya Nagar, Aurangabad 431001",,,,,,,,,,,user
+S060604,S0606,Sarda ,,"A5,Sayali Residency, Shreya Nagar, Aurangabad 431001",,,,,,,,,,,user
+S060605,S0606,Sarda ,,"A5,Sayali Residency, Shreya Nagar, Aurangabad 431001",,,,,,,,,,,user
+S060606,S0606,Sarda ,,"A5,Sayali Residency, Shreya Nagar, Aurangabad 431001",,,,,,,,,,,user
+S070901,S0709,Sarda Subhash,8007777225,"70 B Shubham Hsg Society, Zambad Estate",Family Head,1/26/1969,3/7/1996,BE Mechanical,A+,"Ideas Electricals And Engineers Pvt Ltd
+Plot No 32, Gut No 44, Nr Bajaj Hospital,. Umagopal Nagar Beed Byepass, Aurangabad",,,,,user
+S070902,S0709,Sarda Sunita Subhash,9423782671,"70 B Shubham Hsg Society, Zambad Estate",Wife,3/26/1976,3/7/1996,Under Graduate,B+,,,,,,user
+S070903,S0709,Sarda Santosh Ramnarayan,9422702125,"70 B Shubham Hsg Society, Zambad Estate",Brother,8/6/1970,2/16/2001,B.COM,A+,"Mahalaxmi Jwellers, Shivaji Chowk, Badnapur",,,,,user
+S070904,S0709,Sarda Sheetal Santosh,,"70 B Shubham Hsg Society, Zambad Estate",Bhabhi,7/6/1979,2/16/2001,Under Graduate,A+,,,,,,user
+S070905,S0709,Sarda Charvee Subhash,8007770551,"70 B Shubham Hsg Society, Zambad Estate",Daughter,8/9/1998,,Studying,O+,,,,,,user
+S070906,S0709,Sarda Tarang Santosh,9765561547,"70 B Shubham Hsg Society, Zambad Estate",Nephew,8/9/1998,,Studying,O+,,,,,,user
+S070907,S0709,Sarda Anurang Santosh,9765551547,"70 B Shubham Hsg Society, Zambad Estate",Nephew,3/18/2004,,Student,O+,,,,,,user
+S070908,S0709,Sarda Ramnarayan,7498664562,"70 B Shubham Hsg Society, Zambad Estate",Father,4/23/1905,5/12/1905,,A+,,,,,,user
+S070909,S0709,Sarda Dwarkabai Ramnarayan,8275205408,"70 B Shubham Hsg Society, Zambad Estate",Mother,12/25/1941,5/12/1905,,A+,,,,,,user
+S080501,S0805,Sikchi Madangopal,9422205184,"9, Mangal Kalash Housing Society,
+Zambad Estate Road, Shreyanagar 
+Aurangabad-431005
+
+",Family Head,8/5/1971,5/19/1997,Graduate,O+,Job,,,,,user
+S080502,S0805,Sikchi Manisha Madangopal,9423781910,"9, Mangal Kalash Housing Society,
+Zambad Estate Road, Shreyanagar 
+Aurangabad-431005
+
+",Wife,3/7/1973,5/19/1997,Graduate,B+,Home Maker,,,,,user
+S080503,S0805,Sikchi Vaishnavi Madangopal,,"9, Mangal Kalash Housing Society,
+Zambad Estate Road, Shreyanagar 
+Aurangabad-431005
+
+",Daughter,7/22/1998,,Under Graduate,B+,Study Nagpur,,,,,user
+S080504,S0805,Sikchi Vrajesh Madangopal,,"9, Mangal Kalash Housing Society,
+Zambad Estate Road, Shreyanagar 
+Aurangabad-431005
+
+",Son,6/14/2007,,School,B+,Student,,,,,user
+S080505,S0805,Sikchi Shakuntala Kabra,,"9, Mangal Kalash Housing Society,
+Zambad Estate Road, Shreyanagar 
+Aurangabad-431005
+
+",Mother In Law,6/15/1947,,School,B+,Parent,,,,,user
+S090601,S0906,Sikchi Sanjay,9422202582,Sara Pride,Family Head,18/12/1968,28/06/1998,Bcom,O+,Insurance & Investment,,,,,user
+S090602,S0906,Sikchi Madanlal Mohanlal,,Sara Pride,Father,2/6/1941,,,,,,,,,user
+S090603,S0906,Sikchi Pramila Madanlal,,Sara Pride,Mother,12/7/1945,,,,,,,,,user
+S090604,S0906,Sikchi Seema,9011443244,Sara Pride,Wife,19/11/1973,28/06/1998,Bsc,O+,Lic Agency,,,,,user
+S090605,S0906,Sikchi Neha,9422202582,Sara Pride,Daughter,9/5/1999,,Bcom,O+,Lic Agency,,,,,user
+S090606,S0906,Sikchi ,,Sara Pride,,,,,,,,,,,user
+S100301,S1003,Soni Brijlal,9422703713,"Mathura, Bungalow, 27/A,Swarsangam Hsg.Scty. Near Minatai Thakare Hall, Zambad Estate, Aurangabad 431005.",Family Head,10/10/1949,,"B.E.,Electronics.",O+,Retired,,,,,user
+S100302,S1003,Soni Lata Brijlal,9422703713,"Mathura, Bungalow, 27/A,Swarsangam Hsg.Scty. Near Minatai Thakare Hall, Zambad Estate, Aurangabad 431005.",Wife,28/03/1952,,B.A.,,,,,,,user
+S100303,S1003,Soni Poonam Brijlal,,"Mathura, Bungalow, 27/A,Swarsangam Hsg.Scty. Near Minatai Thakare Hall, Zambad Estate, Aurangabad 431005.",Daughter,19/05/1978,,B.Com.,,,,,,,user
+S110501,S1105,Soni Rameshwar,9423148440,F4 Kasliwal Heritage Society Shreya Nagar Near Dashmesh Nagar Mandir Abad,Family Head,12/11/1974,15/06/1998,bcim,O-,"Business/Trading/ Khokadpura,Abad",,,,,user
+S110502,S1105,Soni Smt Kamala Bai,9423658936,F4 Kasliwal Heritage Society Shreya Nagar Near Dashmesh Nagar Mandir Abad,Mother,6/6/1946,29/05/1963,BA,O+,House Wife,,,,,user
+S110503,S1105,Soni Prishita Rameshwar,9158866667,F4 Kasliwal Heritage Society Shreya Nagar Near Dashmesh Nagar Mandir Abad,Daughter,10/1/2002,,B com 1 st year,O+,No,,,,,user
+S110504,S1105,Soni Palak Rameshwar,9404018544,F4 Kasliwal Heritage Society Shreya Nagar Near Dashmesh Nagar Mandir Abad,Daughter,30/03/2005,,10 th std,B+,No,,,,,user
+S110505,S1105,Soni ,,F4 Kasliwal Heritage Society Shreya Nagar Near Dashmesh Nagar Mandir Abad,,,,,,,,,,,user
+S120401,S1204,Soni Shrigopal,9422203958,"Sripuram,Kasliwal Heritage,Near Tapadia Knowledge Park,New Shreyanagar,Aurangabad- 431005",Family Head,1/5/1964,26/01/1989,B. Com,O+,"Director, Tapadia Constructions Ltd.
+1St Floor,Tapadia Terraces,Adalat Road,Aurangabad- 431001",,,,,user
+S120402,S1204,Soni Meena Shrigopal,9860970224,"Sripuram,Kasliwal Heritage,Near Tapadia Knowledge Park,New Shreyanagar,Aurangabad- 431005",Wife,16/12/1967,26/01/1989,HSC,O+,Na,,,,,user
+S120403,S1204,Soni Sagar Shrigopal,9422202958,"Sripuram,Kasliwal Heritage,Near Tapadia Knowledge Park,New Shreyanagar,Aurangabad- 431005",Son,16/03/1991,,"B. E. Civil, Master's in Construction Management, MBA",O+,"Business Development Consultant,'Sripuram',Kasliwal Heritage,Near Tapadia Knowledge Park,New Shreyanagar,Aurangabad.",,,,,user
+S120404,S1204,Soni Saurabh Shrigopal,8000083693,"Sripuram,Kasliwal Heritage,Near Tapadia Knowledge Park,New Shreyanagar,Aurangabad- 431005",Son,30/09/1994,,B. A. Hons in Hotel Management (IHM),O+,"Saurabh'S Salt & Pepper Restaurant,
+Pride Residency,Near Tapadia Knowledge Park,New Shreyanagar,Aurangabad- 431005",,,,,user
+T010401,T0104,Toshniwal Balaprasad,9422476021,"Jaju Niwas, Rangar Galli, Beed, 431122",Family Head,5/12/1978,1/7/2008,Graduate,Not Checked Yet,"Job, Manager, Mahasagar Roadways, Plot No. P-157, Behind Jagrut Hanuman Mandir, Near More Chowk, Bajaj Nagar, Aurangabad, 431136",,,,,user
+T010402,T0104,Toshniwal Meena Balaprasad,8329876327,"Jaju Niwas, Rangar Galli, Beed, 431122",Wife,8/5/1987,1/7/2008,SSC,,,,,,,user
+T010403,T0104,Toshniwal Gouri Balaprasad,,"Jaju Niwas, Rangar Galli, Beed, 431122",Daughter,13/06/2009,,Six standard,,,,,,,user
+T010404,T0104,Toshniwal Gunjan Balaprasad,,"Jaju Niwas, Rangar Galli, Beed, 431122",Daughter,26/08/2013,,,,,,,,,user
+T020401,T0204,Toshniwal Balaprasad,9422476021,"Flat No 1, Plot No 1, Ashtavinayak Appartment, Opp. Pawan Gas Godawn, New Shreya Nagar, Aurangabad, 431005",Family Head,5/12/1978,1/7/2008,Graduate,Not Checked Yet,"Job, Manager, Mahasagar Roadways, Plot No. P-157, Behind Jagrut Hanuman Mandir, More Chowk, Bajaj Nagar, Aurangabad, 431136",,,,,user
+T020402,T0204,Toshniwal Meena,8329876327,"Flat No 1, Plot No 1, Ashtavinayak Appartment, Opp. Pawan Gas Godawn, New Shreya Nagar, Aurangabad, 431005",Wife,8/5/1987,1/7/2008,,,,,,,,user
+T020403,T0204,Toshniwal Gouri,,"Flat No 1, Plot No 1, Ashtavinayak Appartment, Opp. Pawan Gas Godawn, New Shreya Nagar, Aurangabad, 431005",Daughter,13/06/2009,,Six standard,,,,,,,user
+T020404,T0204,Toshniwal Gunjan,,"Flat No 1, Plot No 1, Ashtavinayak Appartment, Opp. Pawan Gas Godawn, New Shreya Nagar, Aurangabad, 431005",Daughter,26/08/2013,,Second standard,,,,,,,user
+T030401,T0304,Toshniwal Shaligram,9822181775,A-2 14 Sara Prides Kalda Corner Aurangabad,Family Head,3/4/1965,5/3/1995,B.com,B+,Manager At Balkrishna Industries Ltd Waluj,,,,,user
+T030402,T0304,Toshniwal Jayshree Shaligram,8087428459,A-2 14 Sara Prides Kalda Corner Aurangabad,Wife,3/30/1969,5/3/1995,"B.Sc, Micro Biology, DMLT, ND, Beautician",B+,,,,,,user
+T030403,T0304,Toshniwal Jayesh Shaligram,7387179899,A-2 14 Sara Prides Kalda Corner Aurangabad,Son,6/29/1996,,B.com,B+,"Tours And Travels .
+Trip Management National International.
+Multi Services. Stationary .
+At Aurangabad",,,,,user
+T030404,T0304,Toshniwal Rajesh Shaligram,9049887763,A-2 14 Sara Prides Kalda Corner Aurangabad,Son,4/2/1999,,Appearing CA final,B+,.,,,,,user
+T040401,T0404,Totala Ajay,9403543028,"38, Supratam Hsg. Society, New Shreya Nagar, Zambad Estate, Aurangabad.",Family Head,11/8/1968,23/11/1996,B.Com,B+,Job:- Acounts Manager At Vdm Power Pvt. Ltd,,,,,user
+T040402,T0404,Totala Rekha Ajay,9423456617,"38, Supratam Hsg. Society, New Shreya Nagar, Zambad Estate, Aurangabad.",Wife,24/11/1972,23/11/1996,B.COM,AB+,Housewife,,,,,user
+T040403,T0404,Totala Nishant Ajay,9403543028,"38, Supratam Hsg. Society, New Shreya Nagar, Zambad Estate, Aurangabad.",Son,3/11/1997,,B.Com,AB+,Business:- Vaishnavi Tours And Travels,,,,,user
+T040404,T0404,Totala Vaishnavi Ajay,,"38, Supratam Hsg. Society, New Shreya Nagar, Zambad Estate, Aurangabad.",Daughter,28/11/2004,,10th,AB+,,,,,,user
+T050401,T0504,Totala Champalal,9822844725,"C-1/5, Sara Pride, Ranjeet Nagar, Near Kalda Corner, Aurangabad",Family Head,10/14/1964,3/4/1990,BCOM,O+,"Name : Fouress Engineering Pvt Ltd, Type: Service, Address : C-2 Midc Industrial Area , Paithan, Aurangabad 431148 02431-232190",,,,,user
+T050402,T0504,Totala Manisha Champalal,9881294803,"C-1/5, Sara Pride, Ranjeet Nagar, Near Kalda Corner, Aurangabad",Wife,7/29/1969,3/4/1990,B.A.,B+,Housewife,,,,,user
+T050403,T0504,Totala Nilesh Champalal,9764964777,"C-1/5, Sara Pride, Ranjeet Nagar, Near Kalda Corner, Aurangabad",Son,2/8/1991,,B.E and commercial pilot,B+,"Commerial Pilot, Indigo Airlines",,,,,user
+T050404,T0504,Totala Neha Champalal,9545897803,"C-1/5, Sara Pride, Ranjeet Nagar, Near Kalda Corner, Aurangabad",Daughter,11/22/1995,,B.E (IT),B+,"Datametica , Type : It Professional ,Address: 502, 5Th Floor, Zero One, Mundhwa Road, Koregaon Park Extension, Pingale Wasti, Above Passport Office, Pune, Maharashtra 411036",,,,,user
+T060501,T0605,Totala Rameshwar,9890665306,"2, Rampreet, Jai Girija Housing Society, New Shreya Nagar, Aurangabad",Family Head,29/07/1961,6/12/1985,Advocate,B+,Rt Legal,,,,,user
+T060502,T0605,Totala Pratibha Rameshwar,9371571555,"2, Rampreet, Jai Girija Housing Society, New Shreya Nagar, Aurangabad",Wife,24/02/1966,6/12/1985,B com,O+,Housewife,,,,,user
+T060503,T0605,Totala Rahul,9890665306,"2, Rampreet, Jai Girija Housing Society, New Shreya Nagar, Aurangabad",Son,16/12/1987,30/11/2012,Lawyer,A+,Rt Legal,,,,,user
+T060504,T0605,Totala Roshni Rahul,9922887990,"2, Rampreet, Jai Girija Housing Society, New Shreya Nagar, Aurangabad",Daughter In Law,15/03/1991,30/11/2012,Doctor,,Maxima Skin And Hair Clinic,,,,,user
+T060505,T0605,Totala Ruhanika Rahul,,"2, Rampreet, Jai Girija Housing Society, New Shreya Nagar, Aurangabad",Granddaughter,12/5/2017,,,,,,,,,user
+T070401,T0704,Totala Vallabh,9822041898,"Flat No 301,Third Floar,Amrut Sai Jai'S Ekdant,Pannalal Nagar",Family Head,16/12/1967,10/12/1993,D.PHARM,O+,"Shubham Medical And Genral Stores , Near Bus Stand,Bidkin,Tq. Paithan,431105",,,,,user
+T070402,T0704,Totala Swati Vallabh,9762203822,"Flat No 301,Third Floar,Amrut Sai Jai'S Ekdant,Pannalal Nagar",Wife,5/11/1972,10/12/1993,B.COM,A+,,,,,,user
+T070403,T0704,Totala Sayali Vallabh,9420118989,"Flat No 301,Third Floar,Amrut Sai Jai'S Ekdant,Pannalal Nagar",Ddaughter,7/6/1996,,BSC IN INTERIOR,O+,,,,,,user
+T070404,T0704,Totala Mrudul Vallabh,9420318989,"Flat No 301,Third Floar,Amrut Sai Jai'S Ekdant,Pannalal Nagar",Son,6/1/1999,,APPEARING CS EXECUTIVE,A+,,,,,,user
+Z010501,Z0105,Zanwar Ashwinkumar,9922009980,"Cts No :~ 14813/121, Flat No 102, First Floor, Amrut Sai Jai'S Ekdant Opp To Yashoo Mangal Karayalya, Pannalalnagar, New Osmanpura, Kranti Chowk Aurangabad M.S. 431005",Family Head,18/03/1972,28/07/1998,B.COMM,B+,Real Estate,,,,,user
+Z010502,Z0105,Zanwar Sow Radhika Ashwinkumar,9226878289,"Cts No :~ 14813/121, Flat No 102, First Floor, Amrut Sai Jai'S Ekdant Opp To Yashoo Mangal Karayalya, Pannalalnagar, New Osmanpura, Kranti Chowk Aurangabad M.S. 431005",Wife,23/06/1977,28/07/1998,SSC,B+,Real Estate & House Wife,,,,,user
+Z010503,Z0105,Zanwar Shri Chirayu Ashwinkumar,9225305078,"Cts No :~ 14813/121, Flat No 102, First Floor, Amrut Sai Jai'S Ekdant Opp To Yashoo Mangal Karayalya, Pannalalnagar, New Osmanpura, Kranti Chowk Aurangabad M.S. 431005",Son,16/04/1999,,BBA,B+,,,,,,user
+Z010504,Z0105,Zanwar Jivitesh Ashwinkumar,9226162858,"Cts No :~ 14813/121, Flat No 102, First Floor, Amrut Sai Jai'S Ekdant Opp To Yashoo Mangal Karayalya, Pannalalnagar, New Osmanpura, Kranti Chowk Aurangabad M.S. 431005",Son,4/1/2003,,HSC,B+,,,,,,user
+Z010505,Z0105,Zanwar Disha Ashwinkumar,,"Cts No :~ 14813/121, Flat No 102, First Floor, Amrut Sai Jai'S Ekdant Opp To Yashoo Mangal Karayalya, Pannalalnagar, New Osmanpura, Kranti Chowk Aurangabad M.S. 431005",Daughter,25/04/2007,,7 TH STD,B+,,,,,,user
+Z020501,Z0205,Zanwar Jugalkishorji,9028123400,"Flat No B04, Kalyani Guru Mukh Heights Near Hsc Board New Osmanpura Aurangabad.",Family Head,2/9/1989,,B.Com,B+,Shiv Surgical,,,,,user
+Z020502,Z0205,Zanwar Urmilaji Jugalkishorji,9890023304,"Flat No B04, Kalyani Guru Mukh Heights Near Hsc Board New Osmanpura Aurangabad.",Maa,7/12/1962,5/1/1982,10th,,,,,,,user
+Z020503,Z0205,Zanwar Yogeshji Zanwar,9028123400,"Flat No B04, Kalyani Guru Mukh Heights Near Hsc Board New Osmanpura Aurangabad.",Brother,9/15/1984,11/23/2019,B.com,,Shiv Surgical,,,,,user
+Z020504,Z0205,Zanwar Vijayalaxmi Yogeshji,7020624423,"Flat No B04, Kalyani Guru Mukh Heights Near Hsc Board New Osmanpura Aurangabad.",Brother'S Wife,6/22/1985,11/23/2019,Homeopathy Doctor,,Self,,,,,user
+Z020505,Z0205,Zanwar Jugalkishorji Zanwar,9422230900,"Flat No B04, Kalyani Guru Mukh Heights Near Hsc Board New Osmanpura Aurangabad.",Father,3/16/1956,5/1/1982,12th,,,,,,,user
+Z030201,Z0302,Zanwar Radheshyam,7588596902,"12, Bijali Nagar, New Shrey Nagar, Aurangabad",Family Head,5/7/1965,4/2/,Engineer,B+,Business,,,,,user
+Z030202,Z0302,Zanwar Sushila,7588596901,"12, Bijali Nagar, New Shrey Nagar, Aurangabad",Wife,12/11/1967,,Msc,B+,Business,,,,,user
+Z040901,Z0409,Zawar Bhikchand,9422293971,15 Beejale Nagar 431Oo5No,Family Head,17/05/1949,19/04/1968,10 th,AB+,Venus Stationers Osmanpura,,,,,user
+Z040902,Z0409,Zawar Prabha Bhikchand,9767036000,15 Beejale Nagar 431Oo5No,Wife,25/07/1951,19/04/1968,8th pass,B+,Houewife,,,,,user
+Z040903,Z0409,Zawar Vinod Bhikchand,9423654000,15 Beejale Nagar 431Oo5No,Son,18/10/1970,8/6/1993,"B.com,M.com",AB+,"Venus Stationers 
+Usmanpura",,,,,user
